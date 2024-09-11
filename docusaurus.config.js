@@ -111,8 +111,8 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Database',
+                to: 'https://github.com/whydrs/database',
               },
               {
                 label: 'GitHub',
