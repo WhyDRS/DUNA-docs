@@ -1,3 +1,6 @@
+# Build
+.docusaurus
+node_modules
 
-*.DS_Store
-/.docusaurus
+# Misc
+.DS_Store
