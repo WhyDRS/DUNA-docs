@@ -5,10 +5,10 @@
 ### ⚫ Black: #2B2B2B
 
 ## Ancillary Colors
-### 🔷 Alt. Blue: 104C85
+### 🔷 Alt. Blue: #104C85
 Represent transfer agents and other honest graphics.
 
-### 🟢 Green: 2E732E
+### 🟢 Green: #2E732E
 Represents individual investors.
 
 ### 🟠 Orange: #E26848
