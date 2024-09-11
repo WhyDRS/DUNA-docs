@@ -70,7 +70,7 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/whydrs/dao-docs',
             label: 'GitHub',
@@ -86,7 +86,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/intro',
+                to: '/intro',
               },
             ],
           },
@@ -112,7 +112,7 @@ const config = {
             items: [
               {
                 label: 'Database',
-                to: 'https://github.com/whydrs/database',
+                href: 'https://github.com/whydrs/database',
               },
               {
                 label: 'GitHub',

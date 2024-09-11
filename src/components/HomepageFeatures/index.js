@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        GitHub lets you focus on your contributions, and 🤖🤖🤖 do the chores.
+        GitHub lets you focus on your contributions, and it lets 🤖🤖🤖 do the chores.
       </>
     ),
   },

@@ -1,23 +1,31 @@
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
+chives:
+  name: Chives
+  # title: [pick title here]
+  # url: https://your-website.com
   image_url: https://github.com/yangshun.png
   page: true
   socials:
-    x: yangshunz
-    github: yangshun
+    x: tehchives
+    github: tehchives
+    discord: tehchives
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
-  page:
-    # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
+bibic:
+  name: Bibic Jr
+  # title: [pick title here]
+  # url: https://your-website.com
+  image_url: https://github.com/bibicjr.png
   socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
+    x: bibicjr
+    github: bibicjr
+    discord: bibicjr
+
+john:
+  name: John Wooten
+  title: Member
+  url: https://wooten.link/nonprofit
+  image_url: https://github.com/jfwooten4.png
+  page: true
+  socials:
+    x: jfwooten4
+    github: jfwooten4
+    discord: jfwooten4
