@@ -1,32 +1,12 @@
-chives:
-  name: Chives
-  # title: [pick title here]
-  # url: https://your-website.com
-  image_url: https://github.com/yangshun.png
+example:
+  name: Example Person
+  title: CEO of Example Corp
+  email: example@whydrs.org
+  url: https://your-website.com
+  image_url: https://github.com/example.png
   page: true
   socials:
-    x: tehchives
-    github: tehchives
-    discord: tehchives
-
-bibic:
-  name: Bibic Jr
-  # title: [pick title here]
-  # url: https://your-website.com
-  image_url: https://github.com/bibicjr.png
-  socials:
-    x: bibicjr
-    github: bibicjr
-    discord: bibicjr
-
-john:
-  name: John Wooten
-  url: https://wooten.link/nonprofit
-  image_url: https://github.com/jfwooten4.png
-  email: john@whydrs.org
-  page: true
-  socials:
-    x: jfwooten4
-    github: jfwooten4
-    discord: jfwooten4
-    youtube: jfwooten4
+    x: example
+    github: example
+    discord: example
+    youtube: example

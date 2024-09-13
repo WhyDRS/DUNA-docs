@@ -4,7 +4,6 @@ title: Amend Clearing Agency Rules for Consistent Close Outs | WhyDRS DAO Petiti
 
 ```
 Originator: WhatCanIMakeToday <@WCIMT>
-Consulted: Chives <@tehchives>, 6days1week <<remove if no GH>>
 Discussion: https://github.com/orgs/WhyDRS/discussions/2
 Status: Submitted
   live: 2024-9-?
