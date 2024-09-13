@@ -21,11 +21,12 @@ bibic:
 
 john:
   name: John Wooten
-  title: Member
   url: https://wooten.link/nonprofit
   image_url: https://github.com/jfwooten4.png
+  email: john@whydrs.org
   page: true
   socials:
     x: jfwooten4
     github: jfwooten4
     discord: jfwooten4
+    youtube: jfwooten4
