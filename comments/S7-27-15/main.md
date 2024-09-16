@@ -11,14 +11,12 @@ Status: Draft
   href: SEC_URL # for when submitted
 ```
 
-`extends`: https://www.sec.gov/comments/sr-occ-2024-001/srocc2024001-474471-1355754.pdf
-^First page header used in BT argument chain
+`extends`: https://www.sec.gov/comments/sr-occ-2024-001/srocc2024001-474471-1355754.pdf[^prev]
+[^prev]: This is what I put as the chain to past arguments as "PREV" on the [first page](https://wooten.link/occ).
 
-`thesis`: Federal Preemption of Challenges in U.C.C. Article 8
-^Ongoing page header
+`thesis`: Federal Preemption of Challenges in U.C.C. Article 8[^head]
+[^head]: I also incorporate a brief ongoing header thesis to constantly remind the reader of the _one_ thing they can do after understanding the comment.
 
-
-####tbd repl just extends,header
 ---
 
 Ms. Vanessa Countryman
@@ -26,8 +24,162 @@ c/o U.S. Securities and Exchange Commission
 100 F Street NE
 Washington, DC 20549
 
+# Original main frame
 
-[move rough draft frame here from syndicate]
+We respectfully submit this collaborative letter with the viewpoint that Satoshi Nakamoto [is dead](https://evanhatch.medium.com/len-sassaman-and-satoshi-e483c85c2b10). We believe that this perspective shapes the industry’s next options given the [sentiments](https://corpgov.law.harvard.edu/2021/07/27/open-access-interoperability-and-the-dtccs-unexpected-path-to-monopoly/) of Dr. Dan Awrey, Esq. and Joshua Macey, Esq.[^industry] Ms. Countryman, given recent [public demand](https://wooten.link/gme) for a new transparent trading and settlement system,[^] we respectfully submit this decentralized framework to restore confidence in our most advanced, developed, and liquid capital market.[^american]
+
+_Democratization? Somethign big here if fits_
+(no more links in on page / in text)
+
+
+[^industry]: _See also_ [commoditizing standardization](https://www.youtube.com/clip/UgkxTpq_yMb3Ki8PBSRung37YmrIIH8qVWVe), Section I.A of PREV, and [Congressional examination](https://www.youtube.com/clip/UgkxapR6gRwz8DXsp_sm1tSkKwAXijolKcbK).
+[^shifting]: _See also_ [regulation challenges](https://www.youtube.com/clip/UgkxmTr3W5EbXGncpi38wnn94kDvzdYjppJF); notes 16, 46, and 50 in PREV; and [international FDIC hearing](https://www.youtube.com/clip/UgkxX1DN63sYrhFeAXBDM76mAyRXQBl-TGME).
+[^american]: XYZ, big punch here. Potentially fill up the entire rest of this page. Could introduce the three: "[waiving margin requirements and turning off the buy button; them allowing Trade 385 to manipulate the prices... [introducing] idiosyncratic risk that could blow up the financial system](https://www.youtube.com/clip/Ugkxd0_I3EmB6m2oRNnJ2kTku32HTsIleI34)",  ABC "[DTCC itself is planning to start up and pre-fund a new central clearing counterparty when one of the of the existing ones fails](https://www.youtube.com/clip/UgkxZbukKuQRCsLzfmFKDD9QkkHzXi-aVyU7)", and "[when we get there](https://www.youtube.com/clip/UgkxV1YeRljQHPcN4NO5aBdj1HPS7apnbNrC)" by Paul Conn.
+
+^ all of n.3(5) should be seperated quotes with links [attributable to author name](https://github.com/stellar/stellar-protocol/issues/1552)
+
+## Subsequent intro
+
+On unjust delegation of power, esp. During exclusibvely Federal SEC Investivations:
+https://www.sec.gov/resources-for-investors/investor-alerts-bulletins/ib_dtcfreezes
+
+Drop the report.jfwooten4.com fairly early, ref to sections ...
+
+Concern over oversightful CoI - https://www.quiverquant.com/congresstrading/trade/House-H001072-37
+
+
+Cannot be Transfer Agent and Broker Dealer, problamatic speeration custody implications
+“Netting is a function commonly performed by clearing agencies and may also be performed by broker-dealers for customers holding in street name, but is not among the core functions enumerated in Exchange Act Section 3(a)(25) performed by registered transfer agents.”
+
+All agree that (i) DTCC is systemically important and needs bailoit (ii) DTCC is on the brink of bailout per eg, GME but via references to Prev (iii) therefore there needs to be a system in place to replace DTCC so that we arent perpetually bailing out the CCPs, the only such system being blockchain. Make the case for using Stellar, a distributed ledger well-known to innovative...staff.
+
+In response to comments by :
+Former Federal Reserve Chairman Ben Bernanke explained that: “[T]he historical record shows that clearinghouse arrangements have generally withstood even severe crises. This solid performance reflects good planning and sound institutional structures but also some degree of good luck, as crises have also revealed important vulnerabilities, vulnerabilities which prompted subsequent reforms by both the private and public sectors.” Good luck is not a strategy, so why can I be confident that Treasury clearinghouses [the FICC] will perform even in times of market stress?
+
+
+
+On the SRO structure from PREV: extrapolate this to confer presidentail control over the DTC as a de-facto industry requirement to operate in the transfer agent business for public US compnaies
+https://supreme.justia.com/cases/federal/us/561/477/
+
+Our rules can serve to increase barriers to entry and entrench large competitors, which leads to market concentration.
+&mdash; Commissioner Hester M. Peirce 
+
+Ms. Countryman, as you may recall, this statement was made in response the to rule approved in December last year legalizing the monopoliztion of the Treasury securities clearing and settlement market.[^setl] 
+
+This development is particularly problamatic because XYZ
+
+We agree with TRES’ poisiton that “”the traasurty market super important yay””. However, we find these recent develop[ments contrary to the public policy objectives trumpteted by recent FTC actions aimed at preventing undue monoplization.[^aapl] More to the point, we respectfully submit to the commission that “DIRECT MONPOLY QUOTE FROM RULE talking about lowering interbank credit risk,” while well-intentioned, fails to contemplate the alternative deployment of a debit-based diret investor-to-investor trading sstme using distributed ledger technology.
+
+Segway to alternative disintermediation
+On fdirect link to issuing base configs
+Express competion on decentralized
+
+
+
+[^setl]: legla code here/rel no PL avaliable at URL (“TRES”)
+[^aapl]: _See, e.g.,_ Google payments to apple, xyz, and SOMETHIGNBIGTIMTOK - use actual legal doceket
+
+
+
+# Trimbath srpdf
+
+"We need to end self-regulation in financial services. 
+
+Many law and finance academics have been arguing for an end to this "failed experiment" for a while.
+
+In the US Code, the only industry that has codified self-regulation is financial services... [all other industry groups] are in a sense self-regulated... but it’s not codified. There’s not a law that says they have to [follow SRO rules].^See also notes 16, 21, and 137 in PREV
+
+The problem is self-regulation... The SEC approved what they believed was a rule regarding mandatory buy-ins, which was in fact a rule to eliminate the word mandatory from buy-ins—to make them voluntary. {File No. SR-NYSE-2005-50}
+
+I truly believe we have to get rid of the self-regulatory option in financial services.
+
+{{potential ending quote}} In fact, Bill Denser used to say, “Depository Trust Company: trust is our middle name.” If people don’t trust the Depository, then the whole thing falls apart. Which is kind of where we are now, right? We’re at a point where we don’t trust the centralized system. We don’t trust the regulators.
+
+We have corruption in our goverment as much as other couintries have corruption in 
+
+We went through all these machinations 20 years ago, and yet here we are today and people are still asking, “What do you think about naked short selling?” Well, I think failures to deliver are the root of your problem. Why short, when you can fail to deliver?
+
+We heard so much about naked short selling 20 years ago, and then here we are today still talking about naked short selling... even if you borrow the shares to deliver for settlement, then you still have created an IOU—you’ve created a phantom share—in the account of the person who loaned the shares out. {{extra phantom shares floating around}} 
+
+[L]aw and finance academics have been arguing for an end to this "failed experiment" for a while.
+&mdash; Dr. Susanne Trimbath
+
+
+## Crowdsourcing
+
+“Reddit's ability to detect bullshit is insanely high.
+
+Standardization is a great way of eliminating the ability to rent-seek.
+
+The internet does a better job of organizing a bunch of individuals than General Motors or Sears does.
+
+The internet does a better job of organizing a bunch of individuals than [corporate names redacted].”
+
+— Gabe Newell (https://youtu.be/Td_PGkfIdIQ) [use also follow up arg: 28:28 https://youtu.be/TbZ3HzvFEto ?t= needed - Late is just a little while; sucks is forever.]
+
+Note 5 avaliable at https://github.com/orgs/WhyDRS/discussions/2#discussioncomment-10537423
+
+On previously conducting blokchcain insights, never returning
+
+On governance, DAO concerns: See documented token distribution quandaries, available at https://docs.house.gov/meetings/BA/BA21/20240910/117620/HHRG-118-BA21-Wstate-HaysM-20240910.pdf#page=11
+
+The spread of blockchains is bad for anyone in the “trust business”—the centralised institutions and bureaucracies, such as banks, clearing houses and government authorities that are deemed sufficiently trustworthy to handle transactions. Even as some banks and governments explore the use of this new technology, others will surely fight it. But given the decline in trust in governments and banks in recent years, a way to create more scrutiny and transparency could be no bad thing.
+— _The Economist_
+
+> You’ve all seen _The Big Short_... What went wrong there? It was a lack of transparency in these major mortgage-backed securities frameworks. Well guess what the principle benefit of the blockchain is? A transparent, immutable ledger. We have the solution to that problem.
+> You know the Global Financial Crisis of 2008. That crisis, guess what? Has not been fixed. So, it’s over, we got lucky. But in fact, we took—to fix the problem—what was too big to fail, and we turned it into too bigger to fail. The problem is not better. And, in fact, there’s a huge demand for liquidity; many folks expect that there may be a liquidity crisis in the next year or two. The old financial system cannot fix this.
+> [Centralized trust] very nearly caused our financial system to come down. It is quite possible that, without a replacement... the next problem is worse. And what was a crisis becomes a collapse.
+> — Daniel Doney
+CEO of Securrency before aquisition by DTCC
+
+https://www.dtcc.com/-/media/Files/pdf/2024/4/26/B20002-24.pdf
+X
+
+Dive into centalizing risk per:
+- https://www.sec.gov/newsroom/press-releases/2024-98
+- https://www.sec.gov/files/litigation/admin/2024/34-100780.pdf
+- https://www.reuters.com/markets/europe/us-treasury-market-braces-overhaul-vote-clearing-looms-2023-12-13/
+
+
+“What the real innovation here is all about is confirmation without a central operator, without a central clearinghouse - that’s really the big technological breakthrough” - https://youtube.com/clip/UgkxtHrLI0lAJELpFBSbyha9XeDFautIoDAZ 
+
+On the rehypotecation, refer to 2023 Conunterfeiting Stock SECcomment
+[fnt-csecX]
+
+Consider remarks __also_ by him at: https://youtu.be/Fl-L632VuRw?t=90
+^
+
+from an internal webinar that was held for Ukrainian banks, as confirmed by Jordan Edeltein on 13 Sep 2024
+
+Xegway to argument on Ukranian resiliance despite major US enemy adversaty
+
+DTC is not a government agency subject to FOIA requests, despite need per note
+
+## Private markets
+
+Promugulation of private crowdfunding markets under SPVs stop need for publc registration
+Need to count beneficial holders towards the requirement under Section 12g for public interest
+Only the natural thing to do since certainly when they invoked the law in XX_1934_XX no SPV
+“SPVs that hold private company securities raise a number of policy questions.”
+https://www.sec.gov/news/press/schapiro-issa-letter-040611.pdf
+
+
+In discussion of AST breach, mention extrene vciomnminality of email issuances; force sig garuntee!!
+
+## SDEX
+
+See https://www.dtcc.com/news/2023/october/19/dtcc-signs-definitive-agreement-to-acquire-securrency-inc
+Using XLM for Securrency digital assets (now DTCC) and in place for WisdomTree Prime custodial multisig
+https://www.crypto-news-flash.com/securrency-develops-stellar-xlm-based-marketplace-for-financial-instruments/
+SCP: https://www.scs.stanford.edu/~dm/blog/simplified-scp.html
+
+Should refer to genesis tx, src somewhere on creating via payment (?)
+
+
+>[The Network] is not run by Stripe. We just believe that a system with properties like Stellar's should exist in the world, and we heartily encourage anyone interested to participate in its development... we think it's important to invest effort in [basic infrastructure](https://www.google.com/books/edition/The_Development_of_Computer_Science_A_So/CEtclF-JMzAC?hl=en&gbpv=1&pg=PA271&printsec=frontcover#v=onepage&q&f=false) when the opportunity arises.
+> If we get things right, life is going to be much better for billions of people.
+> &mdash; [Greg Brockman](HREF_CBN: just the stirpe blog psot not https://www.youtube.com/live/h-rr_iA3Qog)
+
 
 
 ---
