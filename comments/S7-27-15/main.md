@@ -11,7 +11,7 @@ Status: Draft
   href: SEC_URL # for when submitted
 ```
 
-`extends`: https://www.sec.gov/comments/sr-occ-2024-001/srocc2024001-474471-1355754.pdf[^prev]
+`extends`: https://www.sec.gov/comments/sr-occ-2024-001/srocc2024001-474471-1355754.pdf [^prev]
 [^prev]: This is what I put as the chain to past arguments as "PREV" on the [first page](https://wooten.link/occ).
 
 `thesis`: Federal Preemption of Challenges in U.C.C. Article 8[^head]
