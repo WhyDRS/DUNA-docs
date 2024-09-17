@@ -104,6 +104,10 @@ We heard so much about naked short selling 20 years ago, and then here we are to
 [L]aw and finance academics have been arguing for an end to this "failed experiment" for a while.
 &mdash; Dr. Susanne Trimbath
 
+https://www.sec.gov/comments/s7-08-08/s70808-318.pdf#page=32 at n.11:
+n.14 relates to https://www.sec.gov/comments/s7-07-23/s70723-20162302-331156.pdf
+n.17, 22 relates to https://activityinsight.pace.edu/mbragaalves/intellcont/bb%20mf%202020-1.pdf per https://www.nber.org/system/files/working_papers/w9423/w9423.pdf
+n. 46 relates to § 4 in https://scholarship.law.upenn.edu/cgi/viewcontent.cgi?article=3046&context=faculty_scholarship
 
 ## Crowdsourcing
 
