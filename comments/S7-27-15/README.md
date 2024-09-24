@@ -593,3 +593,8 @@ extrapolate? explore furhter. this could be counter-productive because htey migh
 xyz
 wooten.link/securrency
 https://github.com/Securrency/SmartContraX/releases/tag/v0.9.0
+
+Sincerely,
+
+[ORIGINATOR NAME] and the undersigned[^DictionTBD]
+^[DictionTBD]: This letter contains [contributions](https://github.com/WhyDRS/DAO-docs/blame/main/comments/S7-27-15/README.md) from XYZ# WhyDRS DAO members.
