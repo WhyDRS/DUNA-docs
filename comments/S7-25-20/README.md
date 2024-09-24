@@ -20,3 +20,7 @@ Status: Draft
 ## commodities for aquisitions
 ## user directing own payments
 ## restriction on security ATS
+
+# Validator responsabilities
+[preliminary thoughts](https://www.linkedin.com/pulse/blockchain-trading-high-frequency-firms-symbiotic-ethical-john-wooten-bsedc)
+[operational shifting](https://www.linkedin.com/pulse/step-function-innovation-myth-overnight-success-john-wooten-akl7e)
