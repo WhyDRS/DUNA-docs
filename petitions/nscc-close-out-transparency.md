@@ -6,9 +6,9 @@ title: Amend Clearing Agency Rules for Consistent Close Outs | WhyDRS DAO Petiti
 Originator: WhatCanIMakeToday <@WCIMT>
 Discussion: https://github.com/orgs/WhyDRS/discussions/2
 Status: Submitted
-  live: 2024-9-?
-  file: #
-  href: (SEC_URL_TBD)
+  live: 2024-Sep-20
+  file: 4-842
+  href: https://www.sec.gov/files/rules/petitions/2024/petn4-842.htm
 ```
 
 Aug 27, 2024
