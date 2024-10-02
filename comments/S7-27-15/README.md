@@ -133,11 +133,25 @@ The spread of blockchains is bad for anyone in the "trust business"—the centra
 > You’ve all seen _The Big Short_... What went wrong there? It was a lack of transparency in these major mortgage-backed securities frameworks. Well guess what the principle benefit of the blockchain is? A transparent, immutable ledger. We have the solution to that problem.
 > You know the Global Financial Crisis of 2008. That crisis, guess what? Has not been fixed. So, it’s over, we got lucky. But in fact, we took—to fix the problem—what was too big to fail, and we turned it into too bigger to fail. The problem is not better. And, in fact, there’s a huge demand for liquidity; many folks expect that there may be a liquidity crisis in the next year or two. The old financial system cannot fix this.
 > [Centralized trust] very nearly caused our financial system to come down. It is quite possible that, without a replacement... the next problem is worse. And what was a crisis becomes a collapse.
-> — Daniel Doney
+> — [Daniel Doney](https://youtu.be/wqHF_sjTWeY?t=623)
 CEO of Securrency before aquisition by DTCC
 
 https://www.dtcc.com/-/media/Files/pdf/2024/4/26/B20002-24.pdf
-X
+https://youtu.be/ThV0DTFytxA?t=1195 xyz has states that their goal was to "minimize the number of intermediaries or rent-seekers out there."
+
+
+
+> Agile is often seen as a chaotic process, but if you've actually engaged in it, it is anything but chaotic; in fact, it determines at every moment what developers should focus on through a rigorous but adaptive process, not willy-nilly. 
+
+> We tend to say, "we've got this well established process that we used over and over and over again," instead of actually engaging our end users in the process. And not proxies for professional program managers or others&mdash;the actual end users in whatever it is that we are looking to do. If you get the end users involved, it does away with the need for a lot of process. 
+
+> Responding to change over following a plan: this is the thing that I fight [for]&mdash;on daily basis&mdash;against the bureaucracy. The bureaucracy loves a plan... [the buraucracy believes] we've got to stick to it. Being systematically able to adapt is where you become innovative, and it's where we become efficient as an Agile organization.
+> — [Dan Doney](https://youtu.be/XXk3QKOeKvU)
+
+for a period of X years and Y months, Securrency was a transfer agent employing the same blockchain as the Syndicate. -- https://www.sec.gov/edgar/browse/?CIK=1802190
+use the early closure of this entity as evidence of corruption, segway potentialyl (VERY POTENTIALLY THIS COULD BE BAD BE VERY CAREFUL---ONE OR TWO WORDS/ADJECTIVES MAX) to the talk above given while he "was the CEO" but appears to be functioning in a governmental position which is associated with an organization not on: https://www.linkedin.com/in/ddoney/details/experience/
+
+vote: https://discord.com/channels/1102309240145707049/1125874036774277363/1286778908909375638
 
 Dive into centalizing risk per:
 - https://www.sec.gov/newsroom/press-releases/2024-98
@@ -236,6 +250,8 @@ https://web.archive.org/web/20180223062554/http://jedmccaleb.com/blog/my-settlem
 
 As a note to this, we can extrapolate form existing precident for beneficial disclosure and equivalent application of law in the treatment of introducing clients in the case of undue affiliation (see s7-15-23 144 section, note on newspaper guy), 15c2-11(b)(5)(i)(P) "directly or indirectly", and one other example somewhere - potentially on 17 CFR § 240.14a-7(2)(i) (DIRECT ECONOMIC BURDEN PRECIDENT ON ISSUERS): we thus must block transfer of investment assets from main st to wall et etc This fundamental software freedom enables the next generation of computerized, decentralized, and permissionless innovation. It gives masses of people the necessary tools to build real savings and retirements.
 
+draw hard parallels to communism,-
+"The world has changed; the plan no longer applies... I'm a keen fan of crowdsourcing." Dan Doney in supra Vid `XXk3QKOeKvU`
 
 ---
 
@@ -577,3 +593,8 @@ extrapolate? explore furhter. this could be counter-productive because htey migh
 xyz
 wooten.link/securrency
 https://github.com/Securrency/SmartContraX/releases/tag/v0.9.0
+
+Sincerely,
+
+[ORIGINATOR NAME] and the undersigned[^DictionTBD]
+^[DictionTBD]: This letter contains [contributions](https://github.com/WhyDRS/DAO-docs/blame/main/comments/S7-27-15/README.md) from XYZ# WhyDRS DAO members.
