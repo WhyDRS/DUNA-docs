@@ -253,6 +253,8 @@ Challenge of legacy system for otherwise explicit onchain terms through smart co
 https://web.archive.org/web/20180223062554/http://jedmccaleb.com/blog/my-settlement-victory-with-ripple/
 
 As a note to this, we can extrapolate form existing precident for beneficial disclosure and equivalent application of law in the treatment of introducing clients in the case of undue affiliation (see s7-15-23 144 section, note on newspaper guy), 15c2-11(b)(5)(i)(P) "directly or indirectly", and one other example somewhere - potentially on 17 CFR § 240.14a-7(2)(i) (DIRECT ECONOMIC BURDEN PRECIDENT ON ISSUERS): we thus must block transfer of investment assets from main st to wall et etc This fundamental software freedom enables the next generation of computerized, decentralized, and permissionless innovation. It gives masses of people the necessary tools to build real savings and retirements.
+^ let's try to [_Confer_](https://chatgpt.com/share/66ff1b8e-6bfc-8010-904e-d376f3466940) "fuck wall st" in a comment note comparing CSD regime (in re bailoit convo/section?) with debit-based market txns (IDEALLY REFERENCE GENSLER DIRECT or at least the quot in re MIT show Q&A on why not change the stock makret lol - **could be a very important quote**)
+would be even better with some _supra_s
 
 draw hard parallels to communism,-
 "The world has changed; the plan no longer applies... I'm a keen fan of crowdsourcing." Dan Doney in supra Vid `XXk3QKOeKvU`
