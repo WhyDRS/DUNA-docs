@@ -223,6 +223,7 @@ https://cdn.prod.website-files.com/614e11536f66309636c98688/66f41c9c55e13361ed5d
 
 27min - Goal was to give all away within 5 yr per https://lnns.co/WIZL1hN60x-/1555
 ^ get that into the actual doc references circa issue #794
+present decentralization efforts ongoign in re https://stellar.org/blog/developers/composable-data-platform and reply to https://github.com/stellar/stellar-protocol/discussions/1504 § 2.1.2
 
 ## Question 166
 > Do commenters believe the introduction of certain alternatives to the current central securities depository model, such as a modified transfer agent depository, could be beneficial to issuers, securityholders, and/or the National C&S System? Why or why not? Could it co-exist with the current central depository system? Why or why not? What would such a modified depository entail or look like?
