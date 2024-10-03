@@ -177,10 +177,11 @@ DTC is not a government agency subject to FOIA requests, despite need per note
 
 Promugulation of private crowdfunding markets under SPVs stop need for publc registration
 Need to count beneficial holders towards the requirement under Section 12g for public interest
-Only the natural thing to do since certainly when they invoked the law in XX_1934_XX no SPV
+Only the natural thing to do since certainly when they invoked the law in XX_1934_XX no SPV[^indirect]
 "SPVs that hold private company securities raise a number of policy questions."
 https://www.sec.gov/news/press/schapiro-issa-letter-040611.pdf
 
+[^indirect]: implicate 16 at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1017206
 
 In discussion of AST breach, mention extrene vciomnminality of email issuances; force sig garuntee!!
 
