@@ -218,6 +218,8 @@ https://cs251.stanford.edu/lectures/lecture12.pdf#page=25
 https://api.a16zcrypto.com/wp-content/uploads/2022/06/dao-legal-framework-part-2.pdf
 
 Possibly on uniswap LP securities v. Protocl-level AMM deposit/withdraw on XLM
+^ very carefully do a footnote referencing AMM liquidity via permissionless SDEX as free speech per XYZ § my, n1., and infra ABC or PREV
+https://cdn.prod.website-files.com/614e11536f66309636c98688/66f41c9c55e13361ed5d3dce_BitcoinProtectionFirstAmendment-Sept-25.pdf
 
 27min - Goal was to give all away within 5 yr per https://lnns.co/WIZL1hN60x-/1555
 ^ get that into the actual doc references circa issue #794
