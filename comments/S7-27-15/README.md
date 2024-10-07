@@ -181,6 +181,8 @@ Only the natural thing to do since certainly when they invoked the law in XX_193
 "SPVs that hold private company securities raise a number of policy questions."
 https://www.sec.gov/news/press/schapiro-issa-letter-040611.pdf
 
+info re dis-commodification of common stock
+[^inst-spc]: see requisite asset spvs in re https://www.youtube.com/watch?v=dic7G8CleQ8
 
 In discussion of AST breach, mention extrene vciomnminality of email issuances; force sig garuntee!!
 
