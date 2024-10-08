@@ -514,6 +514,12 @@ Segway to removal of word broker because now an effective alternative to cnetral
 It is our understnad thiat commission contepklating furthances xxxx^
 ^ _See, e.g.,_ upcoming second notice of proposed rulemaking at https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202310&RIN=3235-AM78
 
+
+
+## reporting
+
+Now that I think about it, this sort of obviates the need for Section 16 reporting, can refer to EDGAR NExt final release concerns over the seucirty and material burden on executies in re reporting, likely tie into onerous D&O insurance requirements plaguing the industry
+
 ---
 
 # socializing loss
