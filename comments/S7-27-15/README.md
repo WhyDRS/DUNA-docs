@@ -571,6 +571,9 @@ best option is using:
 https://www.sec.gov/newsroom/press-releases/2013-2013-95htm
 
 https://www.sec.gov/newsroom/press-releases/2024-101
+^ use this as the argument that we need to force [medallions](https://blocktransfer.com/compliance/signature-guarantees) for insiders
+extensive clarifty here based on explicit expeirjnce asking baout internal controsl
+potentially expand cybersec argument based on n.86 in wooten.link/edgar-resp as xyz (very strong edge case here, i would explciitly reccomend this stay at S-protocol-1555)
 
 https://www.dtcc.com/-/media/Files/pdf/2024/4/26/B20002-24.pdf
 
