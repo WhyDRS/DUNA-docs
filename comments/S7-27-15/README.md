@@ -194,7 +194,21 @@ https://github.com/stellar-deprecated/starbridge/tree/main
 sorta ties to the CAP process and such, may implicate tips and bips
 see also https://github.com/stellar/stellar-protocol/tree/master/ecosystem
 
+
+
+
 In discussion of AST breach, mention extrene vciomnminality of email issuances; force sig garuntee!!
+
+
+### select open developments
+
+- https://github.com/stellar/stellar-protocol/pull/1489
+- https://github.com/Soneso/stellar_flutter_sdk/pull/68
+- implicate bip 44 ^ ?
+  
+- https://github.com/stellar/stellar-protocol/pull/1516
+- https://github.com/stellar/stellar-docs/pull/657
+- https://github.com/stellar/stellar-docs/pull/950 & final sentiments implicated in opening comment href
 
 ## SDEX
 
