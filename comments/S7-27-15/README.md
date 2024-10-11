@@ -181,6 +181,8 @@ Only the natural thing to do since certainly when they invoked the law in XX_193
 "SPVs that hold private company securities raise a number of policy questions."
 https://www.sec.gov/news/press/schapiro-issa-letter-040611.pdf
 
+info re dis-commodification of common stock
+[^inst-spc]: see requisite asset spvs in re https://www.youtube.com/watch?v=dic7G8CleQ8
 
 In discussion of AST breach, mention extrene vciomnminality of email issuances; force sig garuntee!!
 
@@ -220,6 +222,12 @@ Possibly on uniswap LP securities v. Protocl-level AMM deposit/withdraw on XLM
 
 27min - Goal was to give all away within 5 yr per https://lnns.co/WIZL1hN60x-/1555
 ^ get that into the actual doc references circa issue #794
+
+## On network holesitically (incl. values alignment per SDEX blog post possible infra interleaving protocol discussion)
+I have selected the Stellar n etwork after extensive diligence (into public blockchains?). It is our present opinion (prob sregnthen this) that the network (or blockchain here) is best adopted for the trading and settlement of our great National market system (maybe caps thisand href hot NMS>?), despite certain industry sentiments.[^blockhain-v-btc]
+
+[^blockhain-v-btc]: _Confer_ [scheptical scemantics](HREF_MICHAEL_+SAYLOR_BLOCKCHAIN_IS_SHIT_LOL_ONLY_BTC_XD) and [present registrations](https://www.youtube.com/watch?v=DuRFMzhPbM0) -- prob bmabye use extracted quotes with name hrefs. _See also_ sentiments of Jed at xyz in re expanding and obvious scalign and marketabile liquidity limits ation BTC [er _infra_ n 222>
+
 
 ## Question 166
 > Do commenters believe the introduction of certain alternatives to the current central securities depository model, such as a modified transfer agent depository, could be beneficial to issuers, securityholders, and/or the National C&S System? Why or why not? Could it co-exist with the current central depository system? Why or why not? What would such a modified depository entail or look like?
@@ -506,6 +514,12 @@ Segway to removal of word broker because now an effective alternative to cnetral
 It is our understnad thiat commission contepklating furthances xxxx^
 ^ _See, e.g.,_ upcoming second notice of proposed rulemaking at https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202310&RIN=3235-AM78
 
+
+
+## reporting
+
+Now that I think about it, this sort of obviates the need for Section 16 reporting, can refer to EDGAR NExt final release concerns over the seucirty and material burden on executies in re reporting, likely tie into onerous D&O insurance requirements plaguing the industry
+
 ---
 
 # socializing loss
@@ -557,6 +571,9 @@ best option is using:
 https://www.sec.gov/newsroom/press-releases/2013-2013-95htm
 
 https://www.sec.gov/newsroom/press-releases/2024-101
+^ use this as the argument that we need to force [medallions](https://blocktransfer.com/compliance/signature-guarantees) for insiders
+extensive clarifty here based on explicit expeirjnce asking baout internal controsl
+potentially expand cybersec argument based on n.86 in wooten.link/edgar-resp as xyz (very strong edge case here, i would explciitly reccomend this stay at S-protocol-1555)
 
 https://www.dtcc.com/-/media/Files/pdf/2024/4/26/B20002-24.pdf
 
