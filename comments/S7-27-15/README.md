@@ -88,6 +88,12 @@ Express competion on decentralized
 
 
 
+## quandaries of CNS and net settlement flows (with diagrams)
+
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1516911
+
+also see [X](https://youtu.be/mEnCKNIb0Bs), ["udemy" tho whiteboard, potetnially expand this](https://www.youtube.com/watch?v=1ZrF6GCLDL4), Z](https://youtu.be/-cZPoqnRZq4)
+
 # Trimbath srpdf
 
 "We need to end self-regulation in financial services. 
