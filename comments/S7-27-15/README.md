@@ -225,6 +225,12 @@ https://cdn.prod.website-files.com/614e11536f66309636c98688/66f41c9c55e13361ed5d
 ^ get that into the actual doc references circa issue #794
 present decentralization efforts ongoign in re https://stellar.org/blog/developers/composable-data-platform and reply to https://github.com/stellar/stellar-protocol/discussions/1504 § 2.1.2
 
+## On network holesitically (incl. values alignment per SDEX blog post possible infra interleaving protocol discussion)
+I have selected the Stellar n etwork after extensive diligence (into public blockchains?). It is our present opinion (prob sregnthen this) that the network (or blockchain here) is best adopted for the trading and settlement of our great National market system (maybe caps thisand href hot NMS>?), despite certain industry sentiments.[^blockhain-v-btc]
+
+[^blockhain-v-btc]: _Confer_ [scheptical scemantics](HREF_MICHAEL_+SAYLOR_BLOCKCHAIN_IS_SHIT_LOL_ONLY_BTC_XD) and [present registrations](https://www.youtube.com/watch?v=DuRFMzhPbM0) -- prob bmabye use extracted quotes with name hrefs. _See also_ sentiments of Jed at xyz in re expanding and obvious scalign and marketabile liquidity limits ation BTC [er _infra_ n 222>
+
+
 ## Question 166
 > Do commenters believe the introduction of certain alternatives to the current central securities depository model, such as a modified transfer agent depository, could be beneficial to issuers, securityholders, and/or the National C&S System? Why or why not? Could it co-exist with the current central depository system? Why or why not? What would such a modified depository entail or look like?
 
