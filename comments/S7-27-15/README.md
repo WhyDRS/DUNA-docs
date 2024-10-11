@@ -67,6 +67,7 @@ Former Federal Reserve Chairman Ben Bernanke explained that: "[T]he historical r
 
 On the SRO structure from PREV: extrapolate this to confer presidentail control over the DTC as a de-facto industry requirement to operate in the transfer agent business for public US compnaies
 https://supreme.justia.com/cases/federal/us/561/477/
+implicate further inadquacies of a "[members club](https://x.com/Malone_Wealth/status/1844596692852801561)", but implicate diction quite lightly
 
 Our rules can serve to increase barriers to entry and entrench large competitors, which leads to market concentration.
 &mdash; Commissioner Hester M. Peirce 
