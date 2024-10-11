@@ -25,6 +25,8 @@ c/o U.S. Securities and Exchange Commission
 Washington, DC 20549
 
 https://www.sec.gov/comments/sr-dtc-2006-16/dtc200616-42.pdf
+"The DTC ... [is] attempting to make... rules... for transfer agent non-members... [who] are direct competitors of DTC."
+from https://www.reddit.com/r/Superstonk/comments/pw0opj/computershare_is_a_competitor_to_the_dtc_comment/, which probably wont get cited but cool guy
 
 # Original main frame
 
