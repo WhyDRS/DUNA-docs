@@ -183,6 +183,17 @@ https://www.sec.gov/news/press/schapiro-issa-letter-040611.pdf
 
 [^indirect]: implicate 16 at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1017206
 
+info re dis-commodification of common stock
+[^inst-spc]: see requisite asset spvs in re https://www.youtube.com/watch?v=dic7G8CleQ8
+
+# Introducing people as developers
+the most decentralized you can get is down to the developers, _Creators_, and community itself
+https://leighmcculloch.com/talks/starbridge-a-trust-minimized-bridge-between-stellar-and-blockchains/Slides%20and%20Notes.pdf
+https://github.com/stellar-deprecated/starbridge/tree/main
+
+sorta ties to the CAP process and such, may implicate tips and bips
+see also https://github.com/stellar/stellar-protocol/tree/master/ecosystem
+
 In discussion of AST breach, mention extrene vciomnminality of email issuances; force sig garuntee!!
 
 ## SDEX
@@ -518,6 +529,12 @@ Segway to removal of word broker because now an effective alternative to cnetral
 It is our understnad thiat commission contepklating furthances xxxx^
 ^ _See, e.g.,_ upcoming second notice of proposed rulemaking at https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202310&RIN=3235-AM78
 
+
+
+## reporting
+
+Now that I think about it, this sort of obviates the need for Section 16 reporting, can refer to EDGAR NExt final release concerns over the seucirty and material burden on executies in re reporting, likely tie into onerous D&O insurance requirements plaguing the industry
+
 ---
 
 # socializing loss
@@ -569,6 +586,9 @@ best option is using:
 https://www.sec.gov/newsroom/press-releases/2013-2013-95htm
 
 https://www.sec.gov/newsroom/press-releases/2024-101
+^ use this as the argument that we need to force [medallions](https://blocktransfer.com/compliance/signature-guarantees) for insiders
+extensive clarifty here based on explicit expeirjnce asking baout internal controsl
+potentially expand cybersec argument based on n.86 in wooten.link/edgar-resp as xyz (very strong edge case here, i would explciitly reccomend this stay at S-protocol-1555)
 
 https://www.dtcc.com/-/media/Files/pdf/2024/4/26/B20002-24.pdf
 
