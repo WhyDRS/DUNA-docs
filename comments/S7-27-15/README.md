@@ -24,6 +24,8 @@ c/o U.S. Securities and Exchange Commission
 100 F Street NE
 Washington, DC 20549
 
+https://www.sec.gov/comments/sr-dtc-2006-16/dtc200616-42.pdf
+
 # Original main frame
 
 We respectfully submit this collaborative letter with the viewpoint that Satoshi Nakamoto [is dead](https://evanhatch.medium.com/len-sassaman-and-satoshi-e483c85c2b10). We believe that this perspective shapes the industry’s next options given the [sentiments](https://corpgov.law.harvard.edu/2021/07/27/open-access-interoperability-and-the-dtccs-unexpected-path-to-monopoly/) of Dr. Dan Awrey, Esq. and Joshua Macey, Esq.[^industry] Ms. Countryman, given recent [public demand](https://wooten.link/gme) for a new transparent trading and settlement system,[^] we respectfully submit this decentralized framework to restore confidence in our most advanced, developed, and liquid capital market.[^american]
