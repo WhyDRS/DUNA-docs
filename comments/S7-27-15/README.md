@@ -177,12 +177,22 @@ DTC is not a government agency subject to FOIA requests, despite need per note
 
 Promugulation of private crowdfunding markets under SPVs stop need for publc registration
 Need to count beneficial holders towards the requirement under Section 12g for public interest
-Only the natural thing to do since certainly when they invoked the law in XX_1934_XX no SPV
+Only the natural thing to do since certainly when they invoked the law in XX_1934_XX no SPV[^indirect]
 "SPVs that hold private company securities raise a number of policy questions."
 https://www.sec.gov/news/press/schapiro-issa-letter-040611.pdf
 
+[^indirect]: implicate 16 at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1017206
+
 info re dis-commodification of common stock
 [^inst-spc]: see requisite asset spvs in re https://www.youtube.com/watch?v=dic7G8CleQ8
+
+# Introducing people as developers
+the most decentralized you can get is down to the developers, _Creators_, and community itself
+https://leighmcculloch.com/talks/starbridge-a-trust-minimized-bridge-between-stellar-and-blockchains/Slides%20and%20Notes.pdf
+https://github.com/stellar-deprecated/starbridge/tree/main
+
+sorta ties to the CAP process and such, may implicate tips and bips
+see also https://github.com/stellar/stellar-protocol/tree/master/ecosystem
 
 In discussion of AST breach, mention extrene vciomnminality of email issuances; force sig garuntee!!
 
@@ -219,9 +229,12 @@ https://cs251.stanford.edu/lectures/lecture12.pdf#page=25
 https://api.a16zcrypto.com/wp-content/uploads/2022/06/dao-legal-framework-part-2.pdf
 
 Possibly on uniswap LP securities v. Protocl-level AMM deposit/withdraw on XLM
+^ very carefully do a footnote referencing AMM liquidity via permissionless SDEX as free speech per XYZ § my, n1., and infra ABC or PREV
+https://cdn.prod.website-files.com/614e11536f66309636c98688/66f41c9c55e13361ed5d3dce_BitcoinProtectionFirstAmendment-Sept-25.pdf
 
 27min - Goal was to give all away within 5 yr per https://lnns.co/WIZL1hN60x-/1555
 ^ get that into the actual doc references circa issue #794
+present decentralization efforts ongoign in re https://stellar.org/blog/developers/composable-data-platform and reply to https://github.com/stellar/stellar-protocol/discussions/1504 § 2.1.2
 
 ## On network holesitically (incl. values alignment per SDEX blog post possible infra interleaving protocol discussion)
 I have selected the Stellar n etwork after extensive diligence (into public blockchains?). It is our present opinion (prob sregnthen this) that the network (or blockchain here) is best adopted for the trading and settlement of our great National market system (maybe caps thisand href hot NMS>?), despite certain industry sentiments.[^blockhain-v-btc]
@@ -257,6 +270,8 @@ Challenge of legacy system for otherwise explicit onchain terms through smart co
 https://web.archive.org/web/20180223062554/http://jedmccaleb.com/blog/my-settlement-victory-with-ripple/
 
 As a note to this, we can extrapolate form existing precident for beneficial disclosure and equivalent application of law in the treatment of introducing clients in the case of undue affiliation (see s7-15-23 144 section, note on newspaper guy), 15c2-11(b)(5)(i)(P) "directly or indirectly", and one other example somewhere - potentially on 17 CFR § 240.14a-7(2)(i) (DIRECT ECONOMIC BURDEN PRECIDENT ON ISSUERS): we thus must block transfer of investment assets from main st to wall et etc This fundamental software freedom enables the next generation of computerized, decentralized, and permissionless innovation. It gives masses of people the necessary tools to build real savings and retirements.
+^ let's try to [_Confer_](https://chatgpt.com/share/66ff1b8e-6bfc-8010-904e-d376f3466940) "fuck wall st" in a comment note comparing CSD regime (in re bailoit convo/section?) with debit-based market txns (IDEALLY REFERENCE GENSLER DIRECT or at least the quot in re MIT show Q&A on why not change the stock makret lol - **could be a very important quote**)
+would be even better with some _supra_s
 
 draw hard parallels to communism,-
 "The world has changed; the plan no longer applies... I'm a keen fan of crowdsourcing." Dan Doney in supra Vid `XXk3QKOeKvU`
