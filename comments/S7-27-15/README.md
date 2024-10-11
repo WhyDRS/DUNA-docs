@@ -24,6 +24,10 @@ c/o U.S. Securities and Exchange Commission
 100 F Street NE
 Washington, DC 20549
 
+https://www.sec.gov/comments/sr-dtc-2006-16/dtc200616-42.pdf
+"The DTC ... [is] attempting to make... rules... for transfer agent non-members... [who] are direct competitors of DTC."
+from https://www.reddit.com/r/Superstonk/comments/pw0opj/computershare_is_a_competitor_to_the_dtc_comment/, which probably wont get cited but cool pser
+
 # Original main frame
 
 We respectfully submit this collaborative letter with the viewpoint that Satoshi Nakamoto [is dead](https://evanhatch.medium.com/len-sassaman-and-satoshi-e483c85c2b10). We believe that this perspective shapes the industry’s next options given the [sentiments](https://corpgov.law.harvard.edu/2021/07/27/open-access-interoperability-and-the-dtccs-unexpected-path-to-monopoly/) of Dr. Dan Awrey, Esq. and Joshua Macey, Esq.[^industry] Ms. Countryman, given recent [public demand](https://wooten.link/gme) for a new transparent trading and settlement system,[^] we respectfully submit this decentralized framework to restore confidence in our most advanced, developed, and liquid capital market.[^american]
@@ -194,7 +198,21 @@ https://github.com/stellar-deprecated/starbridge/tree/main
 sorta ties to the CAP process and such, may implicate tips and bips
 see also https://github.com/stellar/stellar-protocol/tree/master/ecosystem
 
+
+
+
 In discussion of AST breach, mention extrene vciomnminality of email issuances; force sig garuntee!!
+
+
+### select open developments
+
+- https://github.com/stellar/stellar-protocol/pull/1489
+- https://github.com/Soneso/stellar_flutter_sdk/pull/68
+- implicate bip 44 ^ ?
+  
+- https://github.com/stellar/stellar-protocol/pull/1516
+- https://github.com/stellar/stellar-docs/pull/657
+- https://github.com/stellar/stellar-docs/pull/950 & final sentiments implicated in opening comment href
 
 ## SDEX
 
