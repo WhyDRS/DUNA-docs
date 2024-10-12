@@ -483,6 +483,10 @@ Although the DTCC moved most to New Jersey last year, the poiint stands that eff
 In this comment and overall agenda regime, we focus on the clear problems of proxy plumbing, , and failures to deliver. We respectfully submit to the COmmission a number of solutions comprehensively solving these predicaments through the Direct Registration System.
 Ad 13 Auditors declaration of 2023 & prior small T/A
 
+### Waterfall Framework
+
+https://www.isda.org/a/vxDgE/Partial-Tear-Up.pdf
+
 
 DRS as an escape from the rick o using brokers and insolvence as exposed by new DTC etc via UCC8
 
