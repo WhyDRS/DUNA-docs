@@ -24,9 +24,12 @@ c/o U.S. Securities and Exchange Commission
 100 F Street NE
 Washington, DC 20549
 
+##File No. SR-DTC-2006-16
 https://www.sec.gov/comments/sr-dtc-2006-16/dtc200616-42.pdf
 "The DTC ... [is] attempting to make... rules... for transfer agent non-members... [who] are direct competitors of DTC."
 from https://www.reddit.com/r/Superstonk/comments/pw0opj/computershare_is_a_competitor_to_the_dtc_comment/, which probably wont get cited but cool pser
+
+modern context at 13 in File No. SR-DTC-2020-017
 
 ## social externalities
 https://doi.org/10.21033/pdp-2021-02
@@ -472,6 +475,16 @@ Extend to modifying (respectfully suggest etc) Rule 10b–18 to allow issuers to
 Accordingly, broker-dealers regulated by the Commission as such may become members of the Syndicate SRO so as to effectuate transactions on the books of issuers, rather than through the costly DTCC system. Dfjiosfjidsjfio dsjiof jdsio fjiods fjdiso fdsoi how it helps everyone yay! (tie into how they kinda like own the old DTCC so this directly ties it all back into them etc)
 
 # Monopoly bailout
+mv srcs from https://drive.blocktransfer.com/folder/nj3qv8aca55ffe6284206b345e22ef5036020
+
+## Questionable Centralized Origins
+https://swebbtv.se/w/dLt3gmt9Gzi1AJ7cX2m3CR?start=42m
+paperwork crisis chat starts at 46 whereafter talks about Dentzler
+^ "Even people that have not borrowed money will lose their property because someone else has pawned the property for them."
+
+
+we can redress Commission staff in the sense that it is widely unknown per sentiments of "top securities attonrneys at largest banks" not understnading
+https://rumble.com/v4udw6q-new-american-daily-the-great-taking-a-conversation-with-david-webb.html?start=582
 
 All quotes in this comment letter come from Open Access, Interoperability, and
 DTCC’s Unexpected Path to Monopoly by Dan Awrey and Joshua Macey at Cornell Law School.
