@@ -248,6 +248,11 @@ After washing machine age comment, "DTCC still supports Stellar on their tokeniz
 But prob just direct sec ref 
 https://blocktransfer.com/.well-known/thesis.pdf#page=13
 
+_CF_ DAO starting poinits
+- https://github.com/opensource-observer/oss-funding/commit/39400491d819b74631155e62731711783e6d7283
+- https://github.com/opensource-observer/oss-funding/pull/16/files
+- https://github.com/opensource-observer/oss-funding/pull/13/files
+
 Leading investor concerns:
 Cite https://www.youtube.com/clip/Ugkx_V1DjK4hfuqgfPeARudw1_efek9tyx-e
 Cite https://www.sec.gov/files/corpfin/no-action/14a-8/chiocchiogamestop042424-14a8.pdf
