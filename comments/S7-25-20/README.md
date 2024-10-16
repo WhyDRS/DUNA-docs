@@ -3,7 +3,7 @@ title: In re S7-25-20 (Custody of Digital Asset Securities)
 ---
 
 ```
-Originator: John Wooten <@JFWooten4>
+Originator: John Wooten <@JFWooten4> ## happy to hadn this off if someone else wants to tackle it first!
 Discussion: https://github.com/orgs/WhyDRS/discussions/TBD
 Status: Draft
   live: 27 Apr 2026
