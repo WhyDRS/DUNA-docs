@@ -248,6 +248,12 @@ After washing machine age comment, "DTCC still supports Stellar on their tokeniz
 But prob just direct sec ref 
 https://blocktransfer.com/.well-known/thesis.pdf#page=13
 
+in itnroducing the foundation, convo should implicate very deeply the community fund and ongoing [decentralization efforts](https://stellarcommunityfund.gitbook.io/scf-handbook/additional-support/history-of-scf#scf-startup-camp), [introducing SCF **here**](https://github.com/opensource-observer/oss-funding/pull/16/files), and []()[^nqg]
+
+[^nqg]: _See supra_ {[#1504 note]} S 1
+elbaorting on gov implc and introducing WHyDRS DAO (must have formal addresses _with discustubtions_ for this to work)
+therefore im gonna need the token address before this, which requistites dao-docs #13 https://github.com/WhyDRS/DAO-docs/pull/13
+
 Leading investor concerns:
 Cite https://www.youtube.com/clip/Ugkx_V1DjK4hfuqgfPeARudw1_efek9tyx-e
 Cite https://www.sec.gov/files/corpfin/no-action/14a-8/chiocchiogamestop042424-14a8.pdf
