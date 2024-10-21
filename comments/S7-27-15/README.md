@@ -24,6 +24,16 @@ c/o U.S. Securities and Exchange Commission
 100 F Street NE
 Washington, DC 20549
 
+##File No. SR-DTC-2006-16
+https://www.sec.gov/comments/sr-dtc-2006-16/dtc200616-42.pdf
+"The DTC ... [is] attempting to make... rules... for transfer agent non-members... [who] are direct competitors of DTC."
+from https://www.reddit.com/r/Superstonk/comments/pw0opj/computershare_is_a_competitor_to_the_dtc_comment/, which probably wont get cited but cool pser
+
+modern context at 13 in File No. SR-DTC-2020-017
+
+## social externalities
+https://doi.org/10.21033/pdp-2021-02
+
 # Original main frame
 
 We respectfully submit this collaborative letter with the viewpoint that Satoshi Nakamoto [is dead](https://evanhatch.medium.com/len-sassaman-and-satoshi-e483c85c2b10). We believe that this perspective shapes the industry’s next options given the [sentiments](https://corpgov.law.harvard.edu/2021/07/27/open-access-interoperability-and-the-dtccs-unexpected-path-to-monopoly/) of Dr. Dan Awrey, Esq. and Joshua Macey, Esq.[^industry] Ms. Countryman, given recent [public demand](https://wooten.link/gme) for a new transparent trading and settlement system,[^] we respectfully submit this decentralized framework to restore confidence in our most advanced, developed, and liquid capital market.[^american]
@@ -60,6 +70,7 @@ Former Federal Reserve Chairman Ben Bernanke explained that: "[T]he historical r
 
 On the SRO structure from PREV: extrapolate this to confer presidentail control over the DTC as a de-facto industry requirement to operate in the transfer agent business for public US compnaies
 https://supreme.justia.com/cases/federal/us/561/477/
+implicate further inadquacies of a "[members club](https://x.com/Malone_Wealth/status/1844596692852801561)", but implicate diction quite lightly
 
 Our rules can serve to increase barriers to entry and entrench large competitors, which leads to market concentration.
 &mdash; Commissioner Hester M. Peirce 
@@ -80,6 +91,12 @@ Express competion on decentralized
 [^aapl]: _See, e.g.,_ Google payments to apple, xyz, and SOMETHIGNBIGTIMTOK - use actual legal doceket
 
 
+
+## quandaries of CNS and net settlement flows (with diagrams)
+
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1516911
+
+also see [X](https://youtu.be/mEnCKNIb0Bs), ["udemy" tho whiteboard, potetnially expand this](https://www.youtube.com/watch?v=1ZrF6GCLDL4), Z](https://youtu.be/-cZPoqnRZq4)
 
 # Trimbath srpdf
 
@@ -153,10 +170,60 @@ use the early closure of this entity as evidence of corruption, segway potential
 
 vote: https://discord.com/channels/1102309240145707049/1125874036774277363/1286778908909375638
 
+#into DTCC "ditial assets" initiative
+
+https://www.dtcc.com/-/media/WhitePapers/Transforming-Collateral-Management-With-Digital-Assets-JSCC.pdf <-- Link from @[tehchives](https://discordapp.com/channels/1102309240145707049/1102309240741310503/1296530496037326868) 💜
+
+> The PoC focused on modelling how margin calls and their associated processes could be automated, made more efficient and transparent for all participants using digital assets and smart contracts – or rules that automatically execute on a distributed ledger when certain conditions are met.
+
+it is precisely these technologies which obviate the need for the DTCC.
+harp on the requisite disclosure of marigning algorthms and such as consistent with requests of PREV
+then spin that b/c obs these mfs aren't going to do that in any  meaningful capacity as prospected in their walled gardens
+
+> In the case of clients maintaining segregated accounts with their Clearing Member (Client B in the diagram), the JSCC node could directly calculate the portion of the margin call due from the specific buy-side client.
+
+### potential option
+use this as an intro to the ckusterfuck of segregated omnibus account resolution and minupulations thereunder, manipulations which are entirely amelierated when investors themselves hold chain-native assets in their wallets. as in how bitcoin was supposed to be. if we can sincereavly voice [such support](https://bitcoinist.com/blackrock-fink-bitcoin-bombshell-q3-earnings-call) for these technologies, then might we additionally requisite in a legislative underdone the operational; implications of decentralized direct registration?
+
+these mf'ers are literally using fucking aws at 5. antithical to web3 (okay we need to use words other than antithical, preferailbly that legal jargon version `inimical`)
+
+need to frame this in both the context of protecting the just 3 goals and institutionalized innovation charades[^convo-dtcc]
+
+[^convo-dtcc]: _see_ OCCM n.24 at 18, provide quotes form src notes if aval. but likely lost to time, back in super early days
+
+
+
+![image](https://github.com/user-attachments/assets/cf439dcd-a461-40d8-89c3-1cc5f12e1994)
+
+this does not look safe
+
+they _compare_ with teh existing system as something that:
+
+> "Especially in the listed derivatives market, the unique and complex structure of ‘omnibus’
+> accounts presents challenges for ecosystem design. Buy-side client data, housed within omnibus accounts, is
+> managed by individual sell-side clearing members and remains hidden from the CCP. This results in a complex
+> market structure with a hierarchy exceeding three layers."
+
+can use this carefully as framing, likely elsewhere
+
+they trhen pose the "solution" that (removing the jargon sensences with no active tense or meaning) posits:
+
+> JSCC created a tiered application structure allowing sell-side entities
+> to manage their own omnibus accounts through a UI. However, in this setup, the network owner (the CCP in the
+> POC) had access to all data.
+
+look i can't decode their complete misinterpetation of the chain of custody when managing digital wallets, but let's perhaps contemplate how this might afflict centralized interfacing implications 🤔
+
 Dive into centalizing risk per:
 - https://www.sec.gov/newsroom/press-releases/2024-98
 - https://www.sec.gov/files/litigation/admin/2024/34-100780.pdf
 - https://www.reuters.com/markets/europe/us-treasury-market-braces-overhaul-vote-clearing-looms-2023-12-13/
+
+
+
+not sure if here but at some point I need to offer to put the Syndicate into chapter 11 if DTC goes open-source by July
+i know the notes are somewhere around here most likely, but i haven't gone in to finish a fisrt draft yet lol rip
+considering breaking it into sections, but i tried that internally and it was just confusing on the ordering
 
 
 "What the real innovation here is all about is confirmation without a central operator, without a central clearinghouse - that’s really the big technological breakthrough" - https://youtube.com/clip/UgkxtHrLI0lAJELpFBSbyha9XeDFautIoDAZ 
@@ -177,12 +244,38 @@ DTC is not a government agency subject to FOIA requests, despite need per note
 
 Promugulation of private crowdfunding markets under SPVs stop need for publc registration
 Need to count beneficial holders towards the requirement under Section 12g for public interest
-Only the natural thing to do since certainly when they invoked the law in XX_1934_XX no SPV
+Only the natural thing to do since certainly when they invoked the law in XX_1934_XX no SPV[^indirect]
 "SPVs that hold private company securities raise a number of policy questions."
 https://www.sec.gov/news/press/schapiro-issa-letter-040611.pdf
 
+[^indirect]: implicate 16 at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1017206
+
+info re dis-commodification of common stock
+[^inst-spc]: see requisite asset spvs in re https://www.youtube.com/watch?v=dic7G8CleQ8
+
+# Introducing people as developers
+the most decentralized you can get is down to the developers, _Creators_, and community itself
+https://leighmcculloch.com/talks/starbridge-a-trust-minimized-bridge-between-stellar-and-blockchains/Slides%20and%20Notes.pdf
+https://github.com/stellar-deprecated/starbridge/tree/main
+
+sorta ties to the CAP process and such, may implicate tips and bips
+see also https://github.com/stellar/stellar-protocol/tree/master/ecosystem
+
+
+
 
 In discussion of AST breach, mention extrene vciomnminality of email issuances; force sig garuntee!!
+
+
+### select open developments
+
+- https://github.com/stellar/stellar-protocol/pull/1489
+- https://github.com/Soneso/stellar_flutter_sdk/pull/68
+- implicate bip 44 ^ ?
+  
+- https://github.com/stellar/stellar-protocol/pull/1516
+- https://github.com/stellar/stellar-docs/pull/657
+- https://github.com/stellar/stellar-docs/pull/950 & final sentiments implicated in opening comment href
 
 ## SDEX
 
@@ -205,6 +298,38 @@ After washing machine age comment, "DTCC still supports Stellar on their tokeniz
 But prob just direct sec ref 
 https://blocktransfer.com/.well-known/thesis.pdf#page=13
 
+
+
+_CF_ DAO starting poinits
+- https://github.com/opensource-observer/oss-funding/commit/39400491d819b74631155e62731711783e6d7283
+- https://github.com/opensource-observer/oss-funding/pull/16/files
+- https://github.com/opensource-observer/oss-funding/pull/13/files
+
+implicate the decission makring process deeply embeddedi nthe community for protocol updates
+https://developers.stellar.org/meetings/2024/01/26 S 2.iii
+
+From 6:57 to 26:44, there was a discussion of the risks associated with an expedited protocol 21 [phase 1](BUG POST) upgrade
+
+7. Discussion of Protocol 20 upgrade pre-launch bug, community risk assessment response to "make an informed decision"
+
+
+need to frame that despite the amterial singlehanding efforts here, we have a collective agreement on the final rulest
+in the light that anyone can contribute these ongoing efforts (and they do in re SEP efforts decentralization) equally
+"same playing fieled" dynamic applied to n etwokr partoiciupants and ecosystpart affiliations, introducing prior comps
+
+"we've had two external audits" and "as we've announced, we [the SDF] have an audit bank with six audit companies"
+"multiple rounds of internal audits in which members of the core team read every line of code introduced"
+"Software has bugs, blockchains have bugs. We do everythign we possibly can to address these."
+
+
+
+in itnroducing the stellar dev foundation, convo should implicate very deeply the community fund and ongoing [decentralization efforts](https://stellarcommunityfund.gitbook.io/scf-handbook/additional-support/history-of-scf#scf-startup-camp), [introducing SCF **here**](https://github.com/opensource-observer/oss-funding/pull/16/files), and []()[^nqg]
+
+[^nqg]: _See supra_ {[#1504 note]} S 1
+elbaorting on gov implc and introducing WHyDRS DAO (must have formal addresses _with discustubtions_ for this to work)
+therefore im gonna need the token address before this, which requistites dao-docs #13 https://github.com/WhyDRS/DAO-docs/pull/13
+
+
 Leading investor concerns:
 Cite https://www.youtube.com/clip/Ugkx_V1DjK4hfuqgfPeARudw1_efek9tyx-e
 Cite https://www.sec.gov/files/corpfin/no-action/14a-8/chiocchiogamestop042424-14a8.pdf
@@ -217,9 +342,18 @@ https://cs251.stanford.edu/lectures/lecture12.pdf#page=25
 https://api.a16zcrypto.com/wp-content/uploads/2022/06/dao-legal-framework-part-2.pdf
 
 Possibly on uniswap LP securities v. Protocl-level AMM deposit/withdraw on XLM
+^ very carefully do a footnote referencing AMM liquidity via permissionless SDEX as free speech per XYZ § my, n1., and infra ABC or PREV
+https://cdn.prod.website-files.com/614e11536f66309636c98688/66f41c9c55e13361ed5d3dce_BitcoinProtectionFirstAmendment-Sept-25.pdf
 
 27min - Goal was to give all away within 5 yr per https://lnns.co/WIZL1hN60x-/1555
 ^ get that into the actual doc references circa issue #794
+present decentralization efforts ongoign in re https://stellar.org/blog/developers/composable-data-platform and reply to https://github.com/stellar/stellar-protocol/discussions/1504 § 2.1.2
+
+## On network holesitically (incl. values alignment per SDEX blog post possible infra interleaving protocol discussion)
+I have selected the Stellar n etwork after extensive diligence (into public blockchains?). It is our present opinion (prob sregnthen this) that the network (or blockchain here) is best adopted for the trading and settlement of our great National market system (maybe caps thisand href hot NMS>?), despite certain industry sentiments.[^blockhain-v-btc]
+
+[^blockhain-v-btc]: _Confer_ [scheptical scemantics](HREF_MICHAEL_+SAYLOR_BLOCKCHAIN_IS_SHIT_LOL_ONLY_BTC_XD) and [present registrations](https://www.youtube.com/watch?v=DuRFMzhPbM0) -- prob bmabye use extracted quotes with name hrefs. _See also_ sentiments of Jed at xyz in re expanding and obvious scalign and marketabile liquidity limits ation BTC [er _infra_ n 222>
+
 
 ## Question 166
 > Do commenters believe the introduction of certain alternatives to the current central securities depository model, such as a modified transfer agent depository, could be beneficial to issuers, securityholders, and/or the National C&S System? Why or why not? Could it co-exist with the current central depository system? Why or why not? What would such a modified depository entail or look like?
@@ -249,6 +383,8 @@ Challenge of legacy system for otherwise explicit onchain terms through smart co
 https://web.archive.org/web/20180223062554/http://jedmccaleb.com/blog/my-settlement-victory-with-ripple/
 
 As a note to this, we can extrapolate form existing precident for beneficial disclosure and equivalent application of law in the treatment of introducing clients in the case of undue affiliation (see s7-15-23 144 section, note on newspaper guy), 15c2-11(b)(5)(i)(P) "directly or indirectly", and one other example somewhere - potentially on 17 CFR § 240.14a-7(2)(i) (DIRECT ECONOMIC BURDEN PRECIDENT ON ISSUERS): we thus must block transfer of investment assets from main st to wall et etc This fundamental software freedom enables the next generation of computerized, decentralized, and permissionless innovation. It gives masses of people the necessary tools to build real savings and retirements.
+^ let's try to [_Confer_](https://chatgpt.com/share/66ff1b8e-6bfc-8010-904e-d376f3466940) "fuck wall st" in a comment note comparing CSD regime (in re bailoit convo/section?) with debit-based market txns (IDEALLY REFERENCE GENSLER DIRECT or at least the quot in re MIT show Q&A on why not change the stock makret lol - **could be a very important quote**)
+would be even better with some _supra_s
 
 draw hard parallels to communism,-
 "The world has changed; the plan no longer applies... I'm a keen fan of crowdsourcing." Dan Doney in supra Vid `XXk3QKOeKvU`
@@ -421,6 +557,16 @@ Extend to modifying (respectfully suggest etc) Rule 10b–18 to allow issuers to
 Accordingly, broker-dealers regulated by the Commission as such may become members of the Syndicate SRO so as to effectuate transactions on the books of issuers, rather than through the costly DTCC system. Dfjiosfjidsjfio dsjiof jdsio fjiods fjdiso fdsoi how it helps everyone yay! (tie into how they kinda like own the old DTCC so this directly ties it all back into them etc)
 
 # Monopoly bailout
+mv srcs from https://drive.blocktransfer.com/folder/nj3qv8aca55ffe6284206b345e22ef5036020
+
+## Questionable Centralized Origins
+https://swebbtv.se/w/dLt3gmt9Gzi1AJ7cX2m3CR?start=42m
+paperwork crisis chat starts at 46 whereafter talks about Dentzler
+^ "Even people that have not borrowed money will lose their property because someone else has pawned the property for them."
+
+
+we can redress Commission staff in the sense that it is widely unknown per sentiments of "top securities attonrneys at largest banks" not understnading
+https://rumble.com/v4udw6q-new-american-daily-the-great-taking-a-conversation-with-david-webb.html?start=582
 
 All quotes in this comment letter come from Open Access, Interoperability, and
 DTCC’s Unexpected Path to Monopoly by Dan Awrey and Joshua Macey at Cornell Law School.
@@ -431,6 +577,10 @@ Although the DTCC moved most to New Jersey last year, the poiint stands that eff
 	We respectfully submit to the Commission that the DTCC; owned communaly by banks, brokers, and certain private interests; maintains material conflicts of interest with investors and issues, promoting and sustaining an overly-intermediated system of securities ownership, trading, and communications.
 In this comment and overall agenda regime, we focus on the clear problems of proxy plumbing, , and failures to deliver. We respectfully submit to the COmmission a number of solutions comprehensively solving these predicaments through the Direct Registration System.
 Ad 13 Auditors declaration of 2023 & prior small T/A
+
+### Waterfall Framework
+
+https://www.isda.org/a/vxDgE/Partial-Tear-Up.pdf
 
 
 DRS as an escape from the rick o using brokers and insolvence as exposed by new DTC etc via UCC8
@@ -506,6 +656,12 @@ Segway to removal of word broker because now an effective alternative to cnetral
 It is our understnad thiat commission contepklating furthances xxxx^
 ^ _See, e.g.,_ upcoming second notice of proposed rulemaking at https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202310&RIN=3235-AM78
 
+
+
+## reporting
+
+Now that I think about it, this sort of obviates the need for Section 16 reporting, can refer to EDGAR NExt final release concerns over the seucirty and material burden on executies in re reporting, likely tie into onerous D&O insurance requirements plaguing the industry
+
 ---
 
 # socializing loss
@@ -557,6 +713,9 @@ best option is using:
 https://www.sec.gov/newsroom/press-releases/2013-2013-95htm
 
 https://www.sec.gov/newsroom/press-releases/2024-101
+^ use this as the argument that we need to force [medallions](https://blocktransfer.com/compliance/signature-guarantees) for insiders
+extensive clarifty here based on explicit expeirjnce asking baout internal controsl
+potentially expand cybersec argument based on n.86 in wooten.link/edgar-resp as xyz (very strong edge case here, i would explciitly reccomend this stay at S-protocol-1555)
 
 https://www.dtcc.com/-/media/Files/pdf/2024/4/26/B20002-24.pdf
 
