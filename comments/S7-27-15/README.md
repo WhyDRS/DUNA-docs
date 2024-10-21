@@ -170,10 +170,60 @@ use the early closure of this entity as evidence of corruption, segway potential
 
 vote: https://discord.com/channels/1102309240145707049/1125874036774277363/1286778908909375638
 
+#into DTCC "ditial assets" initiative
+
+https://www.dtcc.com/-/media/WhitePapers/Transforming-Collateral-Management-With-Digital-Assets-JSCC.pdf <-- Link from @[tehchives](https://discordapp.com/channels/1102309240145707049/1102309240741310503/1296530496037326868) 💜
+
+> The PoC focused on modelling how margin calls and their associated processes could be automated, made more efficient and transparent for all participants using digital assets and smart contracts – or rules that automatically execute on a distributed ledger when certain conditions are met.
+
+it is precisely these technologies which obviate the need for the DTCC.
+harp on the requisite disclosure of marigning algorthms and such as consistent with requests of PREV
+then spin that b/c obs these mfs aren't going to do that in any  meaningful capacity as prospected in their walled gardens
+
+> In the case of clients maintaining segregated accounts with their Clearing Member (Client B in the diagram), the JSCC node could directly calculate the portion of the margin call due from the specific buy-side client.
+
+### potential option
+use this as an intro to the ckusterfuck of segregated omnibus account resolution and minupulations thereunder, manipulations which are entirely amelierated when investors themselves hold chain-native assets in their wallets. as in how bitcoin was supposed to be. if we can sincereavly voice [such support](https://bitcoinist.com/blackrock-fink-bitcoin-bombshell-q3-earnings-call) for these technologies, then might we additionally requisite in a legislative underdone the operational; implications of decentralized direct registration?
+
+these mf'ers are literally using fucking aws at 5. antithical to web3 (okay we need to use words other than antithical, preferailbly that legal jargon version `inimical`)
+
+need to frame this in both the context of protecting the just 3 goals and institutionalized innovation charades[^convo-dtcc]
+
+[^convo-dtcc]: _see_ OCCM n.24 at 18, provide quotes form src notes if aval. but likely lost to time, back in super early days
+
+
+
+![image](https://github.com/user-attachments/assets/cf439dcd-a461-40d8-89c3-1cc5f12e1994)
+
+this does not look safe
+
+they _compare_ with teh existing system as something that:
+
+> "Especially in the listed derivatives market, the unique and complex structure of ‘omnibus’
+> accounts presents challenges for ecosystem design. Buy-side client data, housed within omnibus accounts, is
+> managed by individual sell-side clearing members and remains hidden from the CCP. This results in a complex
+> market structure with a hierarchy exceeding three layers."
+
+can use this carefully as framing, likely elsewhere
+
+they trhen pose the "solution" that (removing the jargon sensences with no active tense or meaning) posits:
+
+> JSCC created a tiered application structure allowing sell-side entities
+> to manage their own omnibus accounts through a UI. However, in this setup, the network owner (the CCP in the
+> POC) had access to all data.
+
+look i can't decode their complete misinterpetation of the chain of custody when managing digital wallets, but let's perhaps contemplate how this might afflict centralized interfacing implications 🤔
+
 Dive into centalizing risk per:
 - https://www.sec.gov/newsroom/press-releases/2024-98
 - https://www.sec.gov/files/litigation/admin/2024/34-100780.pdf
 - https://www.reuters.com/markets/europe/us-treasury-market-braces-overhaul-vote-clearing-looms-2023-12-13/
+
+
+
+not sure if here but at some point I need to offer to put the Syndicate into chapter 11 if DTC goes open-source by July
+i know the notes are somewhere around here most likely, but i haven't gone in to finish a fisrt draft yet lol rip
+considering breaking it into sections, but i tried that internally and it was just confusing on the ordering
 
 
 "What the real innovation here is all about is confirmation without a central operator, without a central clearinghouse - that’s really the big technological breakthrough" - https://youtube.com/clip/UgkxtHrLI0lAJELpFBSbyha9XeDFautIoDAZ 
@@ -248,6 +298,8 @@ After washing machine age comment, "DTCC still supports Stellar on their tokeniz
 But prob just direct sec ref 
 https://blocktransfer.com/.well-known/thesis.pdf#page=13
 
+
+
 _CF_ DAO starting poinits
 - https://github.com/opensource-observer/oss-funding/commit/39400491d819b74631155e62731711783e6d7283
 - https://github.com/opensource-observer/oss-funding/pull/16/files
@@ -268,6 +320,15 @@ in the light that anyone can contribute these ongoing efforts (and they do in re
 "we've had two external audits" and "as we've announced, we [the SDF] have an audit bank with six audit companies"
 "multiple rounds of internal audits in which members of the core team read every line of code introduced"
 "Software has bugs, blockchains have bugs. We do everythign we possibly can to address these."
+
+
+
+in itnroducing the stellar dev foundation, convo should implicate very deeply the community fund and ongoing [decentralization efforts](https://stellarcommunityfund.gitbook.io/scf-handbook/additional-support/history-of-scf#scf-startup-camp), [introducing SCF **here**](https://github.com/opensource-observer/oss-funding/pull/16/files), and []()[^nqg]
+
+[^nqg]: _See supra_ {[#1504 note]} S 1
+elbaorting on gov implc and introducing WHyDRS DAO (must have formal addresses _with discustubtions_ for this to work)
+therefore im gonna need the token address before this, which requistites dao-docs #13 https://github.com/WhyDRS/DAO-docs/pull/13
+
 
 Leading investor concerns:
 Cite https://www.youtube.com/clip/Ugkx_V1DjK4hfuqgfPeARudw1_efek9tyx-e
