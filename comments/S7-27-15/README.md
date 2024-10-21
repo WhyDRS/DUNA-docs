@@ -43,7 +43,7 @@ _Democratization? Somethign big here if fits_
 
 
 [^industry]: _See also_ [commoditizing standardization](https://www.youtube.com/clip/UgkxTpq_yMb3Ki8PBSRung37YmrIIH8qVWVe), Section I.A of PREV, and [Congressional examination](https://www.youtube.com/clip/UgkxapR6gRwz8DXsp_sm1tSkKwAXijolKcbK).
-[^shifting]: _See also_ [regulation challenges](https://www.youtube.com/clip/UgkxmTr3W5EbXGncpi38wnn94kDvzdYjppJF); notes 16, 46, and 50 in PREV; and [international FDIC hearing](https://www.youtube.com/clip/UgkxX1DN63sYrhFeAXBDM76mAyRXQBl-TGME).
+[^shifting]: _See also_ [regulation challenges](https://www.youtube.com/clip/UgkxmTr3W5EbXGncpi38wnn94kDvzdYjppJF); notes 16, 46, and 50 in PREV; and [international FDIC hearing](https://www.youtube.com/clip/UgkxX1DN63sYrhFeAXBDM76mAyRXQBl-TGME). (which is privotal arg in re https://www.fdic.gov/about/advisory-committees/systemic-resolutions/pdfs/2022-11-09-transcript.pdf#page=142)
 [^american]: XYZ, big punch here. Potentially fill up the entire rest of this page. Could introduce the three: "[waiving margin requirements and turning off the buy button; them allowing Trade 385 to manipulate the prices... [introducing] idiosyncratic risk that could blow up the financial system](https://www.youtube.com/clip/Ugkxd0_I3EmB6m2oRNnJ2kTku32HTsIleI34)",  ABC "[DTCC itself is planning to start up and pre-fund a new central clearing counterparty when one of the of the existing ones fails](https://www.youtube.com/clip/UgkxZbukKuQRCsLzfmFKDD9QkkHzXi-aVyU7)", and "[when we get there](https://www.youtube.com/clip/UgkxV1YeRljQHPcN4NO5aBdj1HPS7apnbNrC)" by Paul Conn.
 
 ^ all of n.3(5) should be seperated quotes with links [attributable to author name](https://github.com/stellar/stellar-protocol/issues/1552)
