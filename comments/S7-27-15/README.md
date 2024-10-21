@@ -253,6 +253,22 @@ _CF_ DAO starting poinits
 - https://github.com/opensource-observer/oss-funding/pull/16/files
 - https://github.com/opensource-observer/oss-funding/pull/13/files
 
+implicate the decission makring process deeply embeddedi nthe community for protocol updates
+https://developers.stellar.org/meetings/2024/01/26 S 2.iii
+
+From 6:57 to 26:44, there was a discussion of the risks associated with an expedited protocol 21 [phase 1](BUG POST) upgrade
+
+7. Discussion of Protocol 20 upgrade pre-launch bug, community risk assessment response to "make an informed decision"
+
+
+need to frame that despite the amterial singlehanding efforts here, we have a collective agreement on the final rulest
+in the light that anyone can contribute these ongoing efforts (and they do in re SEP efforts decentralization) equally
+"same playing fieled" dynamic applied to n etwokr partoiciupants and ecosystpart affiliations, introducing prior comps
+
+"we've had two external audits" and "as we've announced, we [the SDF] have an audit bank with six audit companies"
+"multiple rounds of internal audits in which members of the core team read every line of code introduced"
+"Software has bugs, blockchains have bugs. We do everythign we possibly can to address these."
+
 Leading investor concerns:
 Cite https://www.youtube.com/clip/Ugkx_V1DjK4hfuqgfPeARudw1_efek9tyx-e
 Cite https://www.sec.gov/files/corpfin/no-action/14a-8/chiocchiogamestop042424-14a8.pdf
