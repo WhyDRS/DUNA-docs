@@ -298,11 +298,37 @@ After washing machine age comment, "DTCC still supports Stellar on their tokeniz
 But prob just direct sec ref 
 https://blocktransfer.com/.well-known/thesis.pdf#page=13
 
-in itnroducing the foundation, convo should implicate very deeply the community fund and ongoing [decentralization efforts](https://stellarcommunityfund.gitbook.io/scf-handbook/additional-support/history-of-scf#scf-startup-camp), [introducing SCF **here**](https://github.com/opensource-observer/oss-funding/pull/16/files), and []()[^nqg]
+
+
+_CF_ DAO starting poinits
+- https://github.com/opensource-observer/oss-funding/commit/39400491d819b74631155e62731711783e6d7283
+- https://github.com/opensource-observer/oss-funding/pull/16/files
+- https://github.com/opensource-observer/oss-funding/pull/13/files
+
+implicate the decission makring process deeply embeddedi nthe community for protocol updates
+https://developers.stellar.org/meetings/2024/01/26 S 2.iii
+
+From 6:57 to 26:44, there was a discussion of the risks associated with an expedited protocol 21 [phase 1](BUG POST) upgrade
+
+7. Discussion of Protocol 20 upgrade pre-launch bug, community risk assessment response to "make an informed decision"
+
+
+need to frame that despite the amterial singlehanding efforts here, we have a collective agreement on the final rulest
+in the light that anyone can contribute these ongoing efforts (and they do in re SEP efforts decentralization) equally
+"same playing fieled" dynamic applied to n etwokr partoiciupants and ecosystpart affiliations, introducing prior comps
+
+"we've had two external audits" and "as we've announced, we [the SDF] have an audit bank with six audit companies"
+"multiple rounds of internal audits in which members of the core team read every line of code introduced"
+"Software has bugs, blockchains have bugs. We do everythign we possibly can to address these."
+
+
+
+in itnroducing the stellar dev foundation, convo should implicate very deeply the community fund and ongoing [decentralization efforts](https://stellarcommunityfund.gitbook.io/scf-handbook/additional-support/history-of-scf#scf-startup-camp), [introducing SCF **here**](https://github.com/opensource-observer/oss-funding/pull/16/files), and []()[^nqg]
 
 [^nqg]: _See supra_ {[#1504 note]} S 1
 elbaorting on gov implc and introducing WHyDRS DAO (must have formal addresses _with discustubtions_ for this to work)
 therefore im gonna need the token address before this, which requistites dao-docs #13 https://github.com/WhyDRS/DAO-docs/pull/13
+
 
 Leading investor concerns:
 Cite https://www.youtube.com/clip/Ugkx_V1DjK4hfuqgfPeARudw1_efek9tyx-e
