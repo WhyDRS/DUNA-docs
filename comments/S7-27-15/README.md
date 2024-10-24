@@ -126,6 +126,20 @@ n.14 relates to https://www.sec.gov/comments/s7-07-23/s70723-20162302-331156.pdf
 n.17, 22 relates to https://activityinsight.pace.edu/mbragaalves/intellcont/bb%20mf%202020-1.pdf per https://www.nber.org/system/files/working_papers/w9423/w9423.pdf
 n. 46 relates to § 4 in https://scholarship.law.upenn.edu/cgi/viewcontent.cgi?article=3046&context=faculty_scholarship
 
+
+## politcal args (integrateing)
+
+start with coinbase story as banking frame, footnote suppl on blockfi in re CB futu short
+
+coninue introducing and extending lack of access to service for Syndicate, incl new circle implicatinos story
+[^PAC]: as needed re community sentiments aroud lobbying per both local campaign finance storyies adn trump crypto flip
+
+segway to house (motion to floor) in re note 16 transcript whereby embargo threatened by banking lobby at X in [TN transcript pdf]()
+[^supp]: Must unilaterally support out great Nation's member States (decide on "state" capitalization) to "protect them against the cantillionaires" or something
+
+
+re specifici arg prob just strike the exception in 8.03
+
 ## Crowdsourcing
 
 "Reddit's ability to detect bullshit is insanely high.
