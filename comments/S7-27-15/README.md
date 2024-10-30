@@ -140,6 +140,15 @@ segway to house (motion to floor) in re note 16 transcript whereby embargo threa
 
 re specifici arg prob just strike the exception in 8.03
 
+
+### itnroducing DTC
+which gets extrapolated to dtcc c&s sys
+
+> The Depository Trust Company (“DTC”) is the only stock depository in the United States.  When DTC provides services as the depository for an issuer’s securities, its securities can trade electronically. Without DTC eligibility, it is almost impossible for a company to establish or maintain an active market for its securities.
+> [Brenda Hamilton, Esq.]](https://www.securitieslawyer101.com/2014/dtc-chill/)
+
+onyl focus on global locks as matter of unappropriated market control
+
 ## Crowdsourcing
 
 "Reddit's ability to detect bullshit is insanely high.
