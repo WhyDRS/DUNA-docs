@@ -52,6 +52,13 @@ const config = {
     ],
   ],
 
+  stylesheets: [
+    {
+      href: 'https://use.fontawesome.com/releases/v6.5.2/css/all.css',
+      type: 'text/css',
+    },
+  ],
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -74,6 +81,8 @@ const config = {
             href: 'https://github.com/whydrs/dao-docs',
             label: 'GitHub',
             position: 'right',
+            className: 'header-github-link',
+            'aria-label': 'GitHub',
           },
         ],
       },
