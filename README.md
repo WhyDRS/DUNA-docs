@@ -24,21 +24,12 @@ Once all the prerequisites have been installed, you can run the following comman
 ```bash
 git clone https://github.com/whydrs/dao-docs
 cd dao-docs
-yarn install
-npx docusaurus start
+npm run start
 ```
 
 This will begin the development server, and open a browser window/tab pointing
 to `http://localhost:3000/docs/`. This development server will auto-reload when
 it detects changes to the repository.
-
-After you've made your changes, use the following commands to ensure the consistent
-MDX file formatting and style across the repository:
-
-```bash
-npm run check:mdx # this will search for problems in the MDX files
-npm run format:mdx # this will fix any problems that were found
-```
 
 ## Repository Structure
 
@@ -55,9 +46,7 @@ npm run format:mdx # this will fix any problems that were found
 
 ### Markdown Basics
 
-If you're unfamiliar with Markdown, there are **loads** of good tutorials and
-cheat sheets out there. Check out some of these resources to get a handle on the
-basics:
+If you're unfamiliar with Markdown, there are **loads** of good tutorials and cheat sheets out there. Check out some of these resources to get a handle on the basics:
 
 - [CommonMark cheat sheet and tutorial][commonmark]
 - [Interactive markdown tutorial][tutorial]

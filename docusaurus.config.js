@@ -31,7 +31,7 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
-          editUrl: 'https://github.com/WhyDRS/DAO-docs/tree/main/docs',
+          editUrl: 'https://github.com/WhyDRS/DAO-docs/tree/main',
         },
         blog: {
           showReadingTime: true,
@@ -39,7 +39,7 @@ const config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          editUrl: 'https://github.com/WhyDRS/DAO-docs/tree/main/blog',
+          editUrl: 'https://github.com/WhyDRS/DAO-docs/tree/main',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
