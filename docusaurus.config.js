@@ -51,14 +51,7 @@ const config = {
       }),
     ],
   ],
-
-  stylesheets: [
-    {
-      href: 'https://use.fontawesome.com/releases/v6.5.2/css/all.css',
-      type: 'text/css',
-    },
-  ],
-
+  
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -78,11 +71,9 @@ const config = {
           },
           {to: '/', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/whydrs/dao-docs',
-            label: 'GitHub',
+            href: 'https://www.whydrs.org/advocacy',
+            label: 'Advocate',
             position: 'right',
-            className: 'header-github-link',
-            'aria-label': 'GitHub',
           },
         ],
       },
@@ -94,7 +85,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/intro',
+                to: '/welcome',
               },
             ],
           },
