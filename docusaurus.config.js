@@ -81,11 +81,19 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Repositories',
             items: [
               {
-                label: 'Tutorial',
-                to: '/welcome',
+                label: 'Database',
+                href: 'https://github.com/WhyDRS/Database',
+              },
+              {
+                label: 'Taking Stock',
+                href: 'https://github.com/WhyDRS/Taking-Stock',
+              },
+              {
+                label: 'SEC Petitions',
+                href: 'https://github.com/WhyDRS/SEC-Petitions',
               },
             ],
           },
@@ -117,10 +125,13 @@ const config = {
                 label: 'GitHub',
                 href: 'https://github.com/whydrs/DAO-docs',
               },
+              {
+                label: 'Podcast',
+                href: 'https://linktr.ee/takingstockpodcast',
+              },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} WhyDRS`,
       },
       prism: {
         theme: prismThemes.github,
