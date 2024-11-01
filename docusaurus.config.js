@@ -9,13 +9,12 @@ const config = {
   favicon: 'imgs/brand/favicon.ico',
 
   url: 'https://dao.whydrs.org',
-  // Set the /<baseUrl>/ pathname under which your site is served
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'WhyDRS', // Usually your GitHub org/user name.
-  projectName: 'DAO Docs', // Usually your repo name.
+  organizationName: 'WhyDRS',
+  projectName: 'DAO Docs',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -58,7 +57,7 @@ const config = {
     ({
       image: 'imgs/brand/jpg/social-card.jpg',
       navbar: {
-        title: 'WhyDRS DAO',
+        title: 'WhyDRS',
         logo: {
           alt: 'Direct Register Your Shares to Protect Your Investment',
           src: 'imgs/brand/png/shield.png', // TODO - Make svg
@@ -94,8 +93,8 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Lemmy',
-                href: 'https://lemmy.whynotdrs.org',
+                label: 'Discussions',
+                href: 'https://github.com/orgs/WhyDRS/discussions',
               },
               {
                 label: 'Discord',
@@ -112,11 +111,11 @@ const config = {
             items: [
               {
                 label: 'Database',
-                href: 'https://github.com/whydrs/database',
+                href: 'https://database.whydrs.org',
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/whydrs/dao-docs',
+                href: 'https://github.com/whydrs/DAO-docs',
               },
             ],
           },
