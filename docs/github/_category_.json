@@ -1,0 +1,8 @@
+{
+  "label": "GitHub Repositories",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Source of open contributions and larger working items."
+  }
+}
