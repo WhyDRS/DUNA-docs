@@ -1,7 +1,7 @@
 example:
   name: Example Person
-  title: CEO of Example Corp
-  email: example@whydrs.org
+  title: a professinal
+  email: example@email.org
   url: https://your-website.com
   image_url: https://github.com/example.png
   page: true
