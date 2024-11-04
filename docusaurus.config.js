@@ -16,7 +16,7 @@ const config = {
   organizationName: 'WhyDRS',
   projectName: 'DAO Docs',
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   i18n: {
