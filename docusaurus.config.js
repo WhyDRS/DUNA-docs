@@ -4,20 +4,19 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'WhyDRS DAO',
+  title: 'WhyDRS',
   tagline: 'Not your name, not your shares. 🔐',
   favicon: 'imgs/brand/favicon.ico',
 
   url: 'https://dao.whydrs.org',
-  // Set the /<baseUrl>/ pathname under which your site is served
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'WhyDRS', // Usually your GitHub org/user name.
-  projectName: 'DAO Docs', // Usually your repo name.
+  organizationName: 'WhyDRS',
+  projectName: 'DAO Docs',
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   i18n: {
@@ -32,7 +31,7 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
-          editUrl: 'https://github.com/WhyDRS/DAO-docs/tree/main/docs',
+          editUrl: 'https://github.com/WhyDRS/DAO-docs/tree/main',
         },
         blog: {
           showReadingTime: true,
@@ -40,7 +39,7 @@ const config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          editUrl: 'https://github.com/WhyDRS/DAO-docs/tree/main/blog',
+          editUrl: 'https://github.com/WhyDRS/DAO-docs/tree/main',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -52,13 +51,13 @@ const config = {
       }),
     ],
   ],
-
+  
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       image: 'imgs/brand/jpg/social-card.jpg',
       navbar: {
-        title: 'WhyDRS DAO',
+        title: 'WhyDRS',
         logo: {
           alt: 'Direct Register Your Shares to Protect Your Investment',
           src: 'imgs/brand/png/shield.png', // TODO - Make svg
@@ -68,12 +67,16 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'About',
           },
-          {to: '/', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/whydrs/dao-docs',
-            label: 'GitHub',
+            to: '/blog',
+            label: 'Blog',
+            position: 'left'
+          },
+          {
+            href: 'https://www.whydrs.org/advocacy',
+            label: 'Advocate',
             position: 'right',
           },
         ],
@@ -82,11 +85,19 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Repositories',
             items: [
               {
-                label: 'Tutorial',
-                to: '/intro',
+                label: 'Database',
+                href: 'https://github.com/WhyDRS/Database',
+              },
+              {
+                label: 'Taking Stock',
+                href: 'https://github.com/WhyDRS/Taking-Stock',
+              },
+              {
+                label: 'SEC Petitions',
+                href: 'https://github.com/WhyDRS/SEC-Petitions',
               },
             ],
           },
@@ -94,8 +105,8 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Lemmy',
-                href: 'https://lemmy.whynotdrs.org',
+                label: 'Discussions',
+                href: 'https://github.com/orgs/WhyDRS/discussions',
               },
               {
                 label: 'Discord',
@@ -112,16 +123,19 @@ const config = {
             items: [
               {
                 label: 'Database',
-                href: 'https://github.com/whydrs/database',
+                href: 'https://database.whydrs.org',
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/whydrs/dao-docs',
+                href: 'https://github.com/whydrs/DAO-docs',
+              },
+              {
+                label: 'Podcast',
+                href: 'https://linktr.ee/takingstockpodcast',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} WhyDRS`,
       },
       prism: {
         theme: prismThemes.github,

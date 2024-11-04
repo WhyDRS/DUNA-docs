@@ -1,0 +1,8 @@
+{
+  "label": "Discord Server",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Introductory information about our social chat hub."
+  }
+}
