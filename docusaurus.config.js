@@ -45,6 +45,11 @@ const config = {
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
         },
+        blog: {
+          path: 'meetings',
+          blogTitle: 'Meeting Notes',
+          blogDescription: 'Notes and recordings from biweekly DUNA meetings',
+        },
         meetings: {
           feedOptions: {
             type: ['rss', 'atom'],
