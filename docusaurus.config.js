@@ -75,6 +75,11 @@ const config = {
             position: 'left'
           },
           {
+            to: '/meetings',
+            label: 'Meetings',
+            position: 'right'
+          },
+          {
             href: 'https://www.whydrs.org/advocacy',
             label: 'Advocate',
             position: 'right',
