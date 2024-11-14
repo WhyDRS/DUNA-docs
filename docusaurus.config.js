@@ -45,6 +45,13 @@ const config = {
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
         },
+        meetings: {
+          feedOptions: {
+            type: ['rss', 'atom'],
+            xslt: true,
+          },
+          editUrl: 'https://github.com/WhyDRS/DAO-docs/tree/main',
+        },
         theme: {
           customCss: './src/css/custom.css',
         },

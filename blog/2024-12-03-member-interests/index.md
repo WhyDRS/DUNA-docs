@@ -16,4 +16,4 @@ Thoughts to cover based on 13 Nov 2024 meeting (not yet incorp into my own draft
 - intro of NQG as voting for ongoing token distribution, increasing quarterly
 - start of convo with "distribution" v. incenting production of public goods
 
-[GH comments <html/>]
+[GH comments]
