@@ -1,43 +1,12 @@
 ---
-slug: 14-nov-2024
-title: Thoughts from Nov 13 Meeting
-authors: [john.xlm]
-tags: [governance, tokens, meetings, economics]
+slug: welcome
+title: Welcome
+authors: [example]
+tags: [example]
 ---
 
-
+This is an example of a blog post written by DUNA members like you! It's just an example of what you can create when press `Edit this page` below.
 
 <!-- truncate -->
 
-Agenda shared on screen
-
-Sunday week agenda:
-- Discussion on becoming a Discord Community server
-  - Uses for voting screen popup
-  - Additional Discord stringencies
-  - Growth prospects
-- Podcast hosting via IPFS?
-  - Fleek integration
-  - Domain preference
-
-
-
-inital recognition post of past action, no token dists
-
-intro of NQG as voting for ongoing token distribution, increasing quarterly
-
-start of convo with "distribution" v. incenting production of goods
-
-
-
-
-automating info flow from issuers, getting onboard
-
-info from 6days on outreaching
-
-(chives mentions previously doing IR outreach for WhyDRS site, less stellar response)
-
-
-
-
-[GH comments <html/>]
+Do you think we could use blog pages like this? We can also make different folders or other update items.
