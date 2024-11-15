@@ -47,6 +47,7 @@ const config = {
         },
         blog: {
           path: 'meetings',
+          routeBasePath: '/meetings',
           blogTitle: 'Meeting Notes',
           blogDescription: 'Notes and recordings from biweekly DUNA meetings',
         },
