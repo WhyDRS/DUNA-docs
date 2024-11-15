@@ -45,6 +45,12 @@ const config = {
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
         },
+        blog: {
+          path: 'meetings',
+          routeBasePath: '/meetings',
+          blogTitle: 'Meeting Notes',
+          blogDescription: 'Notes and recordings from biweekly DUNA meetings',
+        },
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -73,6 +79,11 @@ const config = {
             to: '/blog',
             label: 'Blog',
             position: 'left'
+          },
+          {
+            to: '/meetings',
+            label: 'Meetings',
+            position: 'right'
           },
           {
             href: 'https://www.whydrs.org/advocacy',
