@@ -51,13 +51,6 @@ const config = {
           blogTitle: 'Meeting Notes',
           blogDescription: 'Notes and recordings from biweekly DUNA meetings',
         },
-        meetings: {
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
-          editUrl: 'https://github.com/WhyDRS/DAO-docs/tree/main',
-        },
         theme: {
           customCss: './src/css/custom.css',
         },
