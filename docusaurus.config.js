@@ -2,8 +2,7 @@
 
 import {themes as prismThemes} from 'prism-react-renderer';
 
-/** @type {import('@docusaurus/types').Config} */
-const config = {
+module.exports = {
   title: 'WhyDRS',
   tagline: 'Not your name, not your shares. 🔐',
   favicon: 'imgs/brand/favicon.ico',
@@ -27,7 +26,6 @@ const config = {
   presets: [
     [
       'classic',
-      /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
           sidebarPath: './sidebars.js',
@@ -59,7 +57,6 @@ const config = {
   ],
   
   themeConfig:
-    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       image: 'imgs/brand/jpg/social-card.jpg',
       navbar: {
@@ -153,6 +150,10 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
+  stylesheets: [
+    {
+      href: '/css/custom.css',
+      type: 'text/css',
+    },
+  ],
 };
-
-export default config;
