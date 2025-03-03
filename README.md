@@ -7,7 +7,7 @@ WhyDRS is a free educational resource about the financial markets in the United 
 
 
 ## Quick Start
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.dev/WhyDRS/DAO-docs)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.dev/WhyDRS/DUNA-docs)
 
 ### Prerequisites
 
