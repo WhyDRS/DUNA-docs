@@ -1,0 +1,95 @@
+/* Brand Colors
+🔵 Blue: #144F9B
+⚫ Black: #2B2B2B
+🔷 Alt. Blue: #104C85 - Represent transfer agents and honesty.
+🟢 Green: #2E732E - Represents individual investors.
+🟠 Orange: #E26848 - Represents issuers.
+🟣 Purple #8002AF - Accent in shield logo.
+*/
+
+h1, h2, h3 {
+  color: #144F9B;
+}
+  
+pre {
+  background-color: #333;
+  color: #fff;
+  border-radius: 8px;
+  padding: 1em;
+}
+
+.audio-player {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background-color: #2B2B2B;
+    padding: 10px;
+    border-radius: 8px;
+    border: 2px solid #144F9B;
+  }
+  .audio-player button {
+    background-color: #144F9B;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  .audio-player button:hover {
+    background-color: #104C85;
+  }
+  .audio-player #seek-bar {
+    flex: 1;
+    height: 6px;
+    appearance: none;
+    background-color: #E26848;
+    border-radius: 3px;
+    outline: none;
+    transition: background-color 0.3s ease;
+  }
+  .audio-player #seek-bar::-webkit-slider-thumb {
+    appearance: none;
+    width: 12px;
+    height: 12px;
+    background-color: #8002AF;
+    border: 2px solid #FFFFFF;
+    border-radius: 50%;
+    cursor: pointer;
+  }
+  .audio-player #seek-bar:hover {
+    background-color: #E57A61;
+  }
+  .audio-player #volume-bar {
+    width: 100px;
+    appearance: none;
+    height: 4px;
+    background-color: #2E732E;
+    border-radius: 2px;
+    outline: none;
+  }
+  .audio-player #volume-bar::-webkit-slider-thumb {
+    appearance: none;
+    width: 10px;
+    height: 10px;
+    background-color: #FFFFFF;
+    border: 1px solid #2E732E;
+    border-radius: 50%;
+    cursor: pointer;
+  }
+  .audio-player span {
+    color: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+  }
+  .audio-player button:focus,
+  .audio-player #seek-bar:focus,
+  .audio-player #volume-bar:focus {
+    outline: none;
+    box-shadow: 0 0 4px #144F9B;
+  }
