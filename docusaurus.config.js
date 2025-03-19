@@ -31,15 +31,19 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
-          editUrl: 'https://github.com/WhyDRS/DAO-docs/tree/main',
+          editUrl: 'https://github.com/WhyDRS/DUNA-docs/tree/main',
         },
         blog: {
-          showReadingTime: true,
+          path: 'blog',
+          routeBasePath: '/blog',
+          blogTitle: 'DUNA Blog',
+          blogDescription: 'Community DUNA posts',
+          showReadingTime: false,
           feedOptions: {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          editUrl: 'https://github.com/WhyDRS/DAO-docs/tree/main',
+          editUrl: 'https://github.com/WhyDRS/DUNA-docs/tree/main',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -138,7 +142,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/whydrs/DAO-docs',
+                href: 'https://github.com/whydrs/DUNA-docs',
               },
               {
                 label: 'Podcast',

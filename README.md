@@ -7,7 +7,7 @@ WhyDRS is a free educational resource about the financial markets in the United 
 
 
 ## Quick Start
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.dev/WhyDRS/DAO-docs)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.dev/WhyDRS/DUNA-docs)
 
 ### Prerequisites
 
@@ -22,8 +22,8 @@ To begin development on the documentation, you will first need to install the fo
 Once all the prerequisites have been installed, you can run the following commands:
 
 ```bash
-git clone https://github.com/whydrs/dao-docs
-cd dao-docs
+git clone https://github.com/whydrs/DUNA-docs
+cd DUNA-docs
 npm run start
 ```
 
