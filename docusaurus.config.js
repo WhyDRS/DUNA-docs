@@ -49,11 +49,9 @@ const config = {
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
         },
-        blog: {
+        pages: {
           path: 'meetings',
           routeBasePath: '/meetings',
-          blogTitle: 'Meeting Notes',
-          blogDescription: 'Notes and recordings from biweekly DUNA meetings',
         },
         theme: {
           customCss: './src/css/custom.css',

@@ -1,9 +1,9 @@
 ---
-slug: initial-duna-governance-token-idea
-title: Start of Tokens Post
+slug: in-re-sfvegas-2025
+title: WhyDRS at SFVegas
 authors:
   - name: John
-tags: [governance, tokens, meetings, economics]
+tags: []
 ---
 
 implicated [J-M#12](https://github.com/JFWooten4/free-markets/pull/12)

@@ -1,12 +1,10 @@
-example:
-  name: Example Person
-  title: a professinal
-  email: example@email.org
-  url: https://your-website.com
-  image_url: https://github.com/example.png
+john:
+  name: John Wooten
+  email: john@whydrs.org
+  url: https://decentralizingcapitalism.com
+  image_url: https://github.com/JFWooten4.png
   page: true
   socials:
-    x: example
-    github: example
-    discord: example
-    youtube: example
+    x: JFWooten4
+    github: JFWooten4
+    website: https://john.xlm.sh
