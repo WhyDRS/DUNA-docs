@@ -1,8 +1,7 @@
 ---
 slug: in-re-sfvegas-2025
 title: WhyDRS at SFVegas
-authors:
-  - name: John
+authors: [john]
 tags: []
 ---
 

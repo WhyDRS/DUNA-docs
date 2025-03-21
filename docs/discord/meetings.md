@@ -5,7 +5,7 @@ sidebar_position: 13
 
 # Biweekly Meetings
 
-We currently have two bi-weekly meetings held [in our Discord](https://mee6.xyz/i/xyGz2buGJR) based on an availability poll.
+We currently have two weekly meetings held [in our Discord](https://mee6.xyz/i/xyGz2buGJR) based on an availability poll.
 You can join all discussions (which are recorded) in the Discord event meeting channel.
 
 ## Wednesdays

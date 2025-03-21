@@ -74,8 +74,8 @@ const config = {
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
-            position: 'left',
             label: 'About',
+            position: 'left',
           },
           {
             to: '/blog',
@@ -155,6 +155,20 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
+
+    plugins: [
+      [
+        '@docusaurus/plugin-content-docs',
+        {
+          id: 'meetings',
+          path: 'meetings',
+          routeBasePath: 'meetings',
+          sidebarPath: require.resolve('./sidebarsMeetings.js'), // Use a different sidebar file
+          editUrl: 'https://github.com/WhyDRS/DUNA-docs/tree/main',
+        },
+      ],
+    ],
+
 };
 
 export default config;
