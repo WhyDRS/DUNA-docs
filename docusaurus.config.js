@@ -49,10 +49,6 @@ const config = {
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
         },
-        pages: {
-          path: 'meetings',
-          routeBasePath: '/meetings',
-        },
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -83,9 +79,11 @@ const config = {
             position: 'left'
           },
           {
-            to: '/meetings',
+            type: 'docSidebar',
+            sidebarId: 'meetingsSidebar',
+            docsPluginId: 'meetings',
             label: 'Meetings',
-            position: 'right'
+            position: 'right',
           },
           {
             href: 'https://www.whydrs.org/advocacy',
@@ -163,7 +161,7 @@ const config = {
           id: 'meetings',
           path: 'meetings',
           routeBasePath: 'meetings',
-          sidebarPath: require.resolve('./sidebarsMeetings.js'), // Use a different sidebar file
+          sidebarPath: require.resolve('./sidebarMeetings.js'), // Use a different sidebar file
           editUrl: 'https://github.com/WhyDRS/DUNA-docs/tree/main',
         },
       ],
